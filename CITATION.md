@@ -42,7 +42,7 @@ If you use the AI-Powered Citation Auditor methodology, protocol, or tools in yo
   version      = {1.0.0},
   doi          = {[Add DOI if archived on Zenodo]},
   url          = {https://github.com/leonjvr/ai-citation-auditor},
-  note         = {Developed for Agents4Science 2025 Conference}
+  note         = {Research on AI-powered reference verification methodology}
 }
 ```
 
@@ -84,21 +84,19 @@ Janse van Rensburg, LJ, "AI-Powered Citation Auditor: A zero-assumption protocol
 
 ## Conference Paper Citation
 
-**Status**: Submitted to Agents4Science 2025 (acceptance pending)
+**Status**: Manuscript under review for conference proceedings
 
 **Note**: This citation format is provisional and will be updated upon acceptance and publication with final details (publisher, pages, DOI).
 
 ### BibTeX (Current - Unpublished Submission)
 
 ```bibtex
-@unpublished{citation_audit_agents4science_2025,
+@unpublished{citation_audit_conference_2025,
   author       = {Janse van Rensburg, LJ},
   title        = {{AI-Powered Methodology for Comprehensive Reference and
                    Citation Audits in Academic Manuscripts}},
-  note         = {Submitted to the 1st Open Conference on AI Agents
-                  for Science (Agents4Science 2025)},
+  note         = {Manuscript under review for conference proceedings},
   year         = 2025,
-  url          = {https://agents4science.stanford.edu},
   repository   = {https://github.com/leonjvr/ai-citation-auditor}
 }
 ```
@@ -107,18 +105,17 @@ Janse van Rensburg, LJ, "AI-Powered Citation Auditor: A zero-assumption protocol
 
 ```
 Janse van Rensburg, LJ. (2025). AI-powered methodology for comprehensive reference and
-    citation audits in academic manuscripts [Unpublished manuscript submitted for
-    publication]. Submitted to the 1st Open Conference on AI Agents for Science
-    (Agents4Science 2025). https://github.com/leonjvr/ai-citation-auditor
+    citation audits in academic manuscripts [Unpublished manuscript under review].
+    https://github.com/leonjvr/ai-citation-auditor
 ```
 
 ### Future Citation (Upon Acceptance)
 
-**This section will be populated after conference acceptance with:**
+**This section will be populated upon publication with:**
+- Conference proceedings details
 - Final publisher information
 - Page numbers
 - DOI (if assigned)
-- Proceedings volume/issue details
 
 ---
 
@@ -352,7 +349,7 @@ preferred-citation:
     - family-names: [Your Last Name]
       given-names: [Your First Name]
   title: "AI-Powered Methodology for Comprehensive Reference and Citation Audits"
-  collection-title: "Proceedings of Agents4Science 2025"
+  collection-title: "Proceedings of an academic conference on AI agents for science"
   year: 2025
 ```
 
@@ -400,7 +397,7 @@ When using this methodology:
 
 ```
 [Author]. (2025). AI-powered citation auditor: A zero-assumption protocol for
-    reference verification. In Proc. Agents4Science 2025. Code:
+    reference verification. In Proc. an academic conference on AI agents for science. Code:
     github.com/[username]/ai-citation-auditor
 ```
 

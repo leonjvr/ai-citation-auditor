@@ -3,7 +3,7 @@
 **Document:** Intrapreneurship and its conceptual cousins - v28.docx
 **Authors:** Åmo, Bjørn Willy & Janse van Rensburg, Lodewikus Johannes
 **Audit Date:** October 17, 2025
-**Audit Method:** AI-Powered Citation Verification (following Agents4Science 2025 protocol)
+**Audit Method:** AI-Powered Citation Verification (following an academic conference on AI agents for science protocol)
 **Search Tools:** Web search simulating Semantic Scholar/Google Scholar access
 
 ---
@@ -456,7 +456,7 @@ The reference audit reveals a well-researched manuscript with credible sources. 
 
 ---
 
-**Audit Conducted By:** AI Agent (Claude Code) following Agents4Science 2025 protocol
+**Audit Conducted By:** AI Agent (Claude Code) following an academic conference on AI agents for science protocol
 **Date:** October 17, 2025
 **Total Audit Time:** ~4 hours (extraction, matching, verification, analysis, reporting)
 **Report Length:** 6,200+ words

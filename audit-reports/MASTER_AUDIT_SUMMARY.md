@@ -12,12 +12,12 @@
 
 | Document | Type | Total Refs | Verification Rate | Quality Rating | Critical Issues |
 |----------|------|-----------|------------------|----------------|-----------------|
-| **Valarie Taderera MCom** | Masters Dissertation | 196 | 35% matched citations | 🔴 **CRITICAL** | 47 orphan citations, 163 orphan refs, 5 unverifiable |
+| **Student A MCom** | Masters Dissertation | 196 | 35% matched citations | 🔴 **CRITICAL** | 47 orphan citations, 163 orphan refs, 5 unverifiable |
 | **Intrapreneurship Cousins** | Academic Paper | 65 | 93% matched citations | 🟢 **HIGH QUALITY** | 1 journal name error, 50 orphan refs |
-| **Adrian Mombo Masters** | Masters Dissertation | 127 | 60% verified (sample) | 🟡 **MODERATE** | 1 fiction source, 5 unverifiable 2025 refs, 13 mismatches |
+| **Student B Masters** | Masters Dissertation | 127 | 60% verified (sample) | 🟡 **MODERATE** | 1 fiction source, 5 unverifiable 2025 refs, 13 mismatches |
 | **SSIRC Stability-Innovation** | Conference Paper | 46 | 89% verified | 🟢 **HIGH QUALITY** | 3 citation errors, 5 unverifiable, 7 orphans |
 | **Benefits of Bullshit** | Research Proposal | 19 | 84% verified | 🟡 **BELOW STANDARD** | 3 unverifiable, 37% non-peer-reviewed |
-| **Thomas Makwarela Thesis** | Doctoral Thesis | 916 | 100% verified (sample) | 🟢 **EXCELLENT** | 5 minor formatting issues only |
+| **Student C Thesis** | Doctoral Thesis | 916 | 100% verified (sample) | 🟢 **EXCELLENT** | 5 minor formatting issues only |
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## Individual Document Summaries
 
-### 1. Valarie Taderera - MCom Strategic Management
+### 1. Student A - MCom 
 **Status**: 🔴 **MAJOR REVISION REQUIRED**
 
 **Output File**: `Valarie_Taderera_MCom_ReferenceAudit.md`
@@ -105,7 +105,7 @@
 
 ---
 
-### 3. Adrian Mombo - Masters Dissertation
+### 3. Student B - Masters Dissertation
 **Status**: 🔴 **MAJOR REVISION REQUIRED**
 
 **Output File**: `Adrian_Mombo_Masters_ReferenceAudit.md`
@@ -212,7 +212,7 @@
 
 ---
 
-### 6. Thomas Makwarela - Doctoral Thesis
+### 6. Student C - Doctoral Thesis
 **Status**: 🟢 **APPROVE FOR SUBMISSION**
 
 **Output File**: `Thomas_Makwarela_Thesis_ReferenceAudit.md`
@@ -231,7 +231,7 @@
 - All verified references are top-tier sources
 
 **Verified Top Sources**:
-- Strategic Management Journal (Teece et al., 1997)
+-  Journal (Teece et al., 1997)
 - MIS Quarterly (Davis, 1989)
 - Academy of Management Journal (Eisenhardt & Graebner, 2007)
 - Journal of Management (Barney, 1991)
@@ -281,12 +281,12 @@ The strict protocol defined in CLAUDE.md was successfully applied across all doc
 
 | Student | Remediation Level | Action Required |
 |---------|------------------|-----------------|
-| **Valarie Taderera** | 🔴 **COMPLETE REWRITE** | Must rewrite entire reference section; 40-60 hours |
-| **Adrian Mombo** | 🔴 **SUBSTANTIAL REVISION** | Remove fiction source; fix 13+ errors; 1-2 weeks |
+| **Student A** | 🔴 **COMPLETE REWRITE** | Must rewrite entire reference section; 40-60 hours |
+| **Student B** | 🔴 **SUBSTANTIAL REVISION** | Remove fiction source; fix 13+ errors; 1-2 weeks |
 | **Bullshit Proposal** | 🟡 **MAJOR REVISION** | Replace 37% sources; add theory; 1-2 weeks |
 | **SSIRC Authors** | 🟢 **MINOR CORRECTIONS** | Fix 3 citations; remove 2 refs; 2-3 hours |
 | **Intrapreneurship Authors** | 🟢 **MINOR CORRECTIONS** | Fix 1 journal name; remove duplicate; 2-4 hours |
-| **Thomas Makwarela** | 🟢 **COSMETIC ONLY** | 5 formatting fixes; 30 minutes |
+| **Student C** | 🟢 **COSMETIC ONLY** | 5 formatting fixes; 30 minutes |
 
 ### Pedagogical Value
 
@@ -333,7 +333,7 @@ These findings validate the need for systematic citation auditing in academic su
 
 ---
 
-## Contributions to Agents4Science 2025 Research
+## Contributions to an academic conference on AI agents for science Research
 
 This batch processing provides empirical evidence for the conference paper:
 
@@ -346,8 +346,8 @@ This batch processing provides empirical evidence for the conference paper:
 
 ### Qualitative Insights
 
-1. **Best Case Validation**: Thomas Makwarela thesis (916 refs) with only 0.5% issues
-2. **Worst Case Documentation**: Valarie Taderera (83% orphan references)
+1. **Best Case Validation**: Student C thesis (916 refs) with only 0.5% issues
+2. **Worst Case Documentation**: Student A (83% orphan references)
 3. **Common Patterns**: Orphan references, year mismatches, journal name errors
 4. **Edge Cases**: Fiction sources, fabricated SSRN IDs, predatory publishers
 
@@ -372,14 +372,14 @@ This comprehensive batch audit demonstrates the **Agentic AI Citation Audit** me
 
 The wide range of quality (35% to 100% verification rates) validates the tool's discriminative power and demonstrates its value for both quality assurance and pedagogical feedback.
 
-**Overall Assessment**: Methodology ready for presentation at Agents4Science 2025 conference.
+**Overall Assessment**: Methodology ready for presentation at an academic conference on AI agents for science conference.
 
 ---
 
 ## Output Files Generated
 
 All audit reports saved to:
-`C:\Users\leon\Dropbox\UJ\Research\Conferences\Agents4Science 2025\Data\`
+`C:\Users\leon\Dropbox\UJ\Research\Conferences\an academic conference on AI agents for science\Data\`
 
 1. `Valarie_Taderera_MCom_ReferenceAudit.md` (46 KB)
 2. `Intrapreneurship_Conceptual_Cousins_ReferenceAudit.md` (38 KB)
@@ -396,4 +396,4 @@ All audit reports saved to:
 **Audit Completed**: 2025-10-17
 **Protocol**: CLAUDE.md Zero-Assumption Reference Checking
 **Auditor**: AI Agent (Claude Sonnet 4.5)
-**Methodology**: Agents4Science 2025 AI-Powered Citation Audit Framework
+**Methodology**: an academic conference on AI agents for science AI-Powered Citation Audit Framework

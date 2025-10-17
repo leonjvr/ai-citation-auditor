@@ -143,7 +143,7 @@ Each audit report follows this structure:
 - **Student names** → "Student A", "Author"
 - **Supervisor names** → Removed entirely
 - **Institution** → Removed or generalized
-- **Document titles** → Generic titles (e.g., "MCom Strategic Management")
+- **Document titles** → Generic titles (e.g., "MCom ")
 - **Specific research topics** → Retained only for context
 - **Personal identifiers** → Stripped from all text
 

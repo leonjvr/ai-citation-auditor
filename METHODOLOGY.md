@@ -2,7 +2,7 @@
 
 ## Replication Guide for Academic Researchers
 
-This document provides detailed instructions for replicating the AI-powered citation audit methodology described in our Agents4Science 2025 submission. The methodology is designed to be fully reproducible by other researchers.
+This document provides detailed instructions for replicating the AI-powered citation audit methodology. The methodology is designed to be fully reproducible by other researchers.
 
 ---
 
@@ -699,7 +699,7 @@ When citing this methodology in academic work:
 @article{citation_audit_methodology_2025,
   title={AI-Powered Methodology for Comprehensive Reference and Citation Audits},
   author={[Your Name]},
-  journal={Proceedings of Agents4Science 2025},
+  journal={Proceedings of an academic conference on AI agents for science},
   year={2025},
   note={Methodology available at: https://github.com/[username]/ai-citation-auditor}
 }
@@ -725,4 +725,4 @@ We encourage researchers to:
 
 **Document Version**: 1.0
 **Last Updated**: 2025-10-17
-**Status**: Peer Review (Agents4Science 2025)
+**Status**: Under peer review

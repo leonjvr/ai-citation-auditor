@@ -22,12 +22,12 @@ This repository contains a **zero-assumption protocol** for systematic citation 
 
 **Project Status:**
 - **Software Version**: v1.0.0 (stable, functional, tested)
-- **Conference Submission**: Submitted to Agents4Science 2025 (acceptance pending)
+- **Conference Submission**: Submitted to an academic conference on AI agents for science (acceptance pending)
 - **Empirical Validation**: Completed on 6 documents, 1,369 references
 - **Replication**: Full methodology documented and open source
 - **Future Work**: Extended validation, Zenodo DOI, potential journal submission
 
-This methodology was developed for submission to **Agents4Science 2025** (1st Open Conference on AI Agents for Science) and has been empirically tested across diverse academic contexts:
+This methodology was developed for academic conference submission and has been empirically tested across diverse academic contexts:
 
 - **1 Honours project** (19 references)
 - **3 Masters dissertations** (65-196 references)
@@ -267,15 +267,15 @@ If you use this methodology in your research, please cite:
   year = {2025},
   publisher = {GitHub},
   url = {https://github.com/leonjvr/ai-citation-auditor},
-  note = {Developed for Agents4Science 2025 Conference}
+  note = {Research on AI-powered reference verification methodology}
 }
 ```
 
-**Conference Paper** (submitted to Agents4Science 2025):
+**Conference Paper** (under review):
 ```
 Janse van Rensburg, LJ. (2025). AI-Powered Methodology for Comprehensive Reference
-and Citation Audits in Academic Manuscripts. Submitted to the 1st Open Conference
-on AI Agents for Science (Agents4Science 2025).
+and Citation Audits in Academic Manuscripts. [Manuscript under review for conference
+proceedings].
 ```
 
 **Note**: Conference paper citation will be updated upon acceptance and publication.
@@ -308,7 +308,6 @@ The methodology uses web search and does not require direct API keys for:
 
 ## Acknowledgments
 
-- Developed for **Agents4Science 2025** - 1st Open Conference on AI Agents for Science
 - Powered by **Anthropic Claude** (Sonnet 4.5)
 - Built on **Claude CLI v2.0.21**
 - Tested on academic documents from the University of Johannesburg
@@ -319,11 +318,9 @@ For questions, collaboration, or replication support:
 
 - **GitHub Issues**: [github.com/leonjvr/ai-citation-auditor/issues](https://github.com/leonjvr/ai-citation-auditor/issues)
 - **GitHub**: [@leonjvr](https://github.com/leonjvr)
-- **Conference**: [Agents4Science 2025](https://agents4science.stanford.edu)
 
 ---
 
 **Version**: 1.0.0
 **Last Updated**: 2025-10-17
 **Status**: Active Research Project
-**Conference Submission**: Agents4Science 2025
