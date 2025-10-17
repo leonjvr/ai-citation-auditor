@@ -1,0 +1,291 @@
+# CITATION AUDIT REQUEST
+
+**Document**: Multilevel_predictors_of_climate_change_beliefs_in_Africa.pdf
+**Total References**: 70
+**Audit Protocol**: CLAUDE.md - AI-Powered Citation Auditor v1.0
+
+---
+
+## TASK: Systematic Reference Verification
+
+Following the **Reference Checking Protocol for Academic Documents** (CLAUDE.md), perform a comprehensive citation audit of this document with **absolute strictness and zero tolerance for assumptions**.
+
+### Complete Reference List
+
+The following references were extracted from the document's reference section:
+
+[1] IPCC.ClimateChange2022:impacts,adaptationandvulnerability.ContributionofWorkingGroupIIto theSixthAssessmentReportoftheIntergovernmentalPanelonClimateChange.2022.https://doi.org/ 10.1016/j.scitotenv.2021.150065PMID:34525713
+
+[2] GiffordR.TheDragonsofInaction.PsychologicalBarriersThatLimitClimateChangeMitigationand Adaptation.AmPsychol.2011;66.https://doi.org/10.1037/a0023566PMID:21553954
+
+[3] ClaytonS,Devine-WrightP,SternPC,WhitmarshL,CarricoA,StegL,etal.Psychologicalresearch andglobalclimatechange.NatClimChang.2015;5:640–646.https://doi.org/10.1038/nclimate2622
+
+[4] vanValkengoedAM,StegL.Meta-analysesoffactorsmotivatingclimatechangeadaptationbehaviour. NatClimChang.2019;9:158–163.https://doi.org/10.1038/s41558-018-0371-y
+
+[5] Afrobarometer.AfrobarometerData,7thRound.2019[cited11Mar2021].Available:https:// afrobarometer.org/data/data-use-policy
+
+[6] Tjernstro¨mE,TietenbergT.Dodifferencesinattitudesexplaindifferencesinnationalclimatechange policies?EcolEcon.2008;65:315–324.https://doi.org/10.1016/j.ecolecon.2007.06.019
+
+[7] DietzT,DanA,ShwomR.SupportforClimateChangePolicy:SocialPsychologicalandSocialStruc- turalInfluences.RuralSociol.2007;72:185–214.https://doi.org/10.1526/003601107781170026
+
+[8] HornseyMJ,HarrisEA,BainPG,FieldingKS.Meta-analysesofthedeterminantsandoutcomesof beliefinclimatechange.NatClimChang.2016;6:622–626.https://doi.org/10.1038/nclimate2943
+
+[9] BlennowK,PerssonJ,Tome´M,HanewinkelM.ClimateChange:BelievingandSeeingImpliesAdapt- ing.PLoSOne.2012;7:e50182.https://doi.org/10.1371/journal.pone.0050182PMID:23185568
+
+[10] LeeTM,MarkowitzEM,HowePD,KoCY,LeiserowitzAA.Predictorsofpublicclimatechangeaware- nessandriskperceptionaroundtheworld.NatClimChang.2015;5:1014–1020.https://doi.org/10. 1038/nclimate2728
+
+[11] LeviS.Country-levelconditionslikeprosperity,democracy,andregulatoryculturepredictindividualcli- matechangebelief.CommunEarthEnviron.2021;2:51.https://doi.org/10.1038/s43247-021-00118-6
+
+[12] LehnerF,StockerTF.Fromlocalperceptiontoglobalperspective.NatClimChang.2015;5:731–734. https://doi.org/10.1038/nclimate2660
+
+[13] AdhikariU,NejadhashemiAP,WoznickiSA.ClimatechangeandeasternAfrica:areviewofimpacton majorcrops.FoodEnergySecur.2015;4:110–132.https://doi.org/10.1002/FES3.61
+
+[14] MooreFC,ObradovichN,LehnerF,BaylisP.Rapidlydecliningremarkabilityoftemperatureanomalies mayobscurepublicperceptionofclimatechange.ProcNatlAcadSciUSA.2019;116:4905–4910. https://doi.org/10.1073/pnas.1816541116PMID:30804179
+
+[15] WilliamsHTP,McMurrayJR,KurzT,HugoLambertF.Networkanalysisrevealsopenforumsandecho chambersinsocialmediadiscussionsofclimatechange.GlobEnvironChang.2015;32:126–138. https://doi.org/10.1016/j.gloenvcha.2015.03.006
+
+[16] GodfreyA,LeRoux-RutledgeE,CookeS,BurtonM.AfricaTalksClimate:Thepublicunderstandingof climatechangeintencountries.BBCWorldServTrust.2010.
+
+[17] PoortingaW,WhitmarshL,StegL,Bo¨hmG,FisherS.Climatechangeperceptionsandtheirindividual- leveldeterminants:Across-Europeananalysis.GlobEnvironChang.2019;55:25–35.https://doi.org/ 10.1016/j.gloenvcha.2019.01.007
+
+[18] Marquart-PyattST,McCrightAM,DietzT,DunlapRE.Politicseclipsesclimateextremesforclimate changeperceptions.GlobEnvironChang.2014;29:246–257.https://doi.org/10.1016/j.gloenvcha. 2014.10.004
+
+[19] CornerA,WhitmarshL,XeniasD.Uncertainty,scepticismandattitudestowardsclimatechange: Biasedassimilationandattitudepolarisation.ClimChange.2012;114:463–478.https://doi.org/10. 1007/s10584-012-0424-6 PLOSONE|https://doi.org/10.1371/journal.pone.0266387 April5,2022 11/14 PLOS ONE MultilevelpredictorsofclimatechangebeliefsinAfrica
+
+[20] KahanDM,PetersE,WittlinM,SlovicP,OuelletteLL,BramanD,etal.Thepolarizingimpactofscience literacyandnumeracyonperceivedclimatechangerisks.NatClimChang.2012;2:732–735.https:// doi.org/10.1038/nclimate1547
+
+[21] HartPS,NisbetEC.BoomerangEffectsinScienceCommunication.CommunicRes.2012;39:701– 723.https://doi.org/10.1177/0093650211416646
+
+[22] Roser-RenoufC,MaibachEW,LeiserowitzA,ZhaoX.Thegenesisofclimatechangeactivism:from keybeliefstopoliticalaction.ClimChang20141252.2014;125:163–178.https://doi.org/10.1007/ S10584-014-1173-5
+
+[23] ColognaV,SiegristM.Theroleoftrustforclimatechangemitigationandadaptationbehaviour:Ameta- analysis.JEnvironPsychol.2020;69:101428.https://doi.org/10.1016/j.jenvp.2020.101428
+
+[24] DruckmanJN,McGrathMC.Theevidenceformotivatedreasoninginclimatechangepreferenceforma- tion.NatClimChang201992.2019;9:111–119.https://doi.org/10.1038/s41558-018-0360-1
+
+[25] ArturL,HilhorstD.EverydayrealitiesofclimatechangeadaptationinMozambique.GlobEnviron Chang.2012;22:529–536.https://doi.org/10.1016/j.gloenvcha.2011.11.013
+
+[26] HamiltonLC,KeimBD.Regionalvariationinperceptionsaboutclimatechange.IntJClimatol.2009;29: 2348–2352.https://doi.org/10.1002/joc.1930
+
+[27] MorrisonM,DuncanR,PartonK.ReligionDoesMatterforClimateChangeAttitudesandBehavior.Ebi KL,editor.PLoSOne.2015;10:e0134868.https://doi.org/10.1371/journal.pone.0134868PMID: 26247206
+
+[28] Haluza-DeLayR.Religionandclimatechange:varietiesinviewpointsandpractices.WileyInterdiscip RevClimChang.2014;5:261–279.https://doi.org/10.1002/wcc.268
+
+[29] WeberEU.Whatshapesperceptionsofclimatechange?Newresearchsince2010.WileyInterdiscip RevClimChang.2016;7:125–134.https://doi.org/10.1002/wcc.377
+
+[30] vanderLindenS.Thesocial-psychologicaldeterminantsofclimatechangeriskperceptions:Towardsa comprehensivemodel.JEnvironPsychol.2015;41:112–124.https://doi.org/10.1016/j.jenvp.2014.11. 012
+
+[31] SpenceA,PidgeonN.Framingandcommunicatingclimatechange:Theeffectsofdistanceandout- comeframemanipulations.GlobEnvironChang.2010;20:656–667.https://doi.org/10.1016/j. gloenvcha.2010.07.002
+
+[32] WeberEU.Experience-basedanddescription-basedperceptionsoflong-termrisk:Whyglobalwarming doesnotscareus(yet).ClimChange.2006;77:103–120.https://doi.org/10.1007/s10584-006-9060-3
+
+[33] RudmanLA,McLeanMC,BunzlM.WhenTruthIsPersonallyInconvenient,AttitudesChange:The ImpactofExtremeWeatheronImplicitSupportforGreenPoliticiansandExplicitClimate-Change Beliefs.PsycholSci.2013;24:2290–2296.https://doi.org/10.1177/0956797613492775PMID: 24058064
+
+[34] SpenceA,PoortingaW,ButlerC,PidgeonNF.Perceptionsofclimatechangeandwillingnesstosave energyrelatedtofloodexperience.NatClimChang.2011;1:46–49.https://doi.org/10.1038/ nclimate1059
+
+[35] KaufmannRK,MannML,GopalS,LiedermanJA,HowePD,PretisF,etal.Spatialheterogeneityofcli- matechangeasanexperientialbasisforskepticism.ProcNatlAcadSciUSA.2017;114:67–71. https://doi.org/10.1073/pnas.1607032113PMID:27994143
+
+[36] MyersTA,MaibachEW,Roser-RenoufC,AkerlofK,LeiserowitzAA.Therelationshipbetweenper- sonalexperienceandbeliefintherealityofglobalwarming.NatClimChang.2013;3:343–347.https:// doi.org/10.1038/nclimate1754
+
+[37] ReserJP,BradleyGL,EllulMC.Encounteringclimatechange:‘seeing’ismorethan‘believing.’Wiley InterdiscipRevClimChang.2014;5:521–537.https://doi.org/10.1002/wcc.286
+
+[38] DonnerSD,McDanielsJ.Theinfluenceofnationaltemperaturefluctuationsonopinionsaboutclimate changeintheU.S.since1990.ClimChange.2013;118:537–550.https://doi.org/10.1007/s10584-012- 0690-3
+
+[39] ZavalL,KeenanEA,JohnsonEJ,WeberEU.Howwarmdaysincreasebeliefinglobalwarming.Nat ClimChang.2014;4:143–147.https://doi.org/10.1038/nclimate2093
+
+[40] LiY,JohnsonEJ,ZavalL.Localwarming:Dailytemperaturechangeinfluencesbeliefinglobalwarm- ing.PsycholSci.2011;22:454–459.https://doi.org/10.1177/0956797611400913PMID:21372325
+
+[41] DeressaTT,HassanRM,RinglerC.Perceptionofandadaptationtoclimatechangebyfarmersinthe NilebasinofEthiopia.JAgricSci.2011;149:23–31.https://doi.org/10.1017/S0021859610000687
+
+[42] ScruggsL,BenegalS.Decliningpublicconcernaboutclimatechange:Canweblamethegreatreces- sion?GlobEnvironChang.2012;22:505–515.https://doi.org/10.1016/j.gloenvcha.2012.01.002 PLOSONE|https://doi.org/10.1371/journal.pone.0266387 April5,2022 12/14 PLOS ONE MultilevelpredictorsofclimatechangebeliefsinAfrica
+
+[43] ShumRY.Effectsofeconomicrecessionandlocalweatheronclimatechangeattitudes.ClimPolicy. 2012;12:38–49.https://doi.org/10.1080/14693062.2011.579316
+
+[44] WeberEU.Whatshapesperceptionsofclimatechange?WileyInterdiscipRevClimChang.2010;1: 332–342.https://doi.org/10.1002/wcc.41
+
+[45] TrustSlovicP.,emotion,sex,politics,andscience:Surveyingtherisk-assessmentbattlefield.Risk Anal.1999;19:689–701.https://doi.org/10.1023/a:1007041821623PMID:10765431
+
+[46] WhitmarshL.Scepticismanduncertaintyaboutclimatechange:Dimensions,determinantsandchange overtime.GlobEnvironChang.2011;21:690–700.https://doi.org/10.1016/j.gloenvcha.2011.01.016
+
+[47] LinkeAM,WitmerFDW,O’LoughlinJ.Dopeopleaccuratelyreportdroughts?Comparisonofinstru- ment-measuredandnationalsurveydatainKenya.ClimChange.2020;162:1143–1160.https://doi. org/10.1007/s10584-020-02724-3
+
+[48] HenrikssonR,VincentK,ArcherE,JewittG.Understandinggenderdifferencesinavailability,accessi- bilityanduseofclimateinformationamongsmallholderfarmersinMalawi.ClimDev.2021;13:503– 514.https://doi.org/10.1080/17565529.2020.1806777
+
+[49] MaddisonD.ThePerceptionofandAdaptationtoClimateChangeinAfrica.WorldBankPolicyRes WorkPap.2007[cited23Feb2021].Available:http://econ.worldbank.org.
+
+[50] FinucaneML,SlovicP,MertzCK,FlynnJ,SatterfieldTA.Gender,race,andperceivedrisk:The“white male”effect.HealRiskSoc.2000;2:159–172.https://doi.org/10.1080/713670162
+
+[51] BreimanL.Randomforests.MachLearn.2001;45:5–32.https://doi.org/10.1023/A:1010933404324
+
+[52] ForkuorG,HounkpatinOKL,WelpG,ThielM.HighresolutionmappingofsoilpropertiesusingRemote Sensingvariablesinsouth-westernBurkinaFaso:Acomparisonofmachinelearningandmultiplelinear regressionmodels.PLoSOne.2017;12:e0170478.https://doi.org/10.1371/journal.pone.0170478 PMID:28114334
+
+[53] StroblC,MalleyJ,TutzG.AnIntroductiontoRecursivePartitioning:Rationale,Application,andChar- acteristicsofClassificationandRegressionTrees,Bagging,andRandomForests.PsycholMethods. 2009;14:323–348.https://doi.org/10.1037/a0016973PMID:19968396
+
+[54] WrightMN,ZieglerA.ranger:AfastimplementationofRandomForestsforhighdimensionaldatainC+ +andR.JStatSoftw.2017;77.https://doi.org/10.18637/jss.v077.i01
+
+[55] NembriniS,Ko¨nigIR,WrightMN.TherevivaloftheGiniimportance?ValenciaA,editor.Bioinformatics. 2018;34:3711–3718.https://doi.org/10.1093/bioinformatics/bty373PMID:29757357
+
+[56] HarrisI,OsbornTJ,JonesP,ListerD.Version4oftheCRUTSmonthlyhigh-resolutiongriddedmulti- variateclimatedataset.SciData.2020;7:1–18.https://doi.org/10.1038/s41597-019-0340-yPMID: 31896794
+
+[57] HendrixCS,SalehyanI.Climatechange,rainfall,andsocialconflictinAfrica.JPeaceRes.2012;49: 35–50.https://doi.org/10.1177/0022343311426165
+
+[58] Vicente-SerranoSM,Beguer´ıaS,Lo´pez-MorenoJI.Amultiscalardroughtindexsensitivetoglobal warming:Thestandardizedprecipitationevapotranspirationindex.JClim.2010;23:1696–1718. https://doi.org/10.1175/2009JCLI2909.1
+
+[59] NiangI,RuppelOC,AbdraboMA,EsselA,LennardC,PadghamJ,etal.Africa.ClimateChange2014: Impacts,Adaptation,andVulnerabilityPartB:RegionalAspectsContributionofWorkingGroupIItothe FifthAssessmentReportoftheIntergovernmentalPanelonClimateChange. NewYork: Cambridge UniversityPress;2014.
+
+[60] MubayaCP,NjukiJ,MutsvangwaEP,MugabeFT,NanjaD.Climatevariabilityandchangeormultiple stressors?FarmerperceptionsregardingthreatstolivelihoodsinZimbabweandZambia.JEnviron Manage.2012;102:9–17.https://doi.org/10.1016/j.jenvman.2012.02.005PMID:22425874
+
+[61] MarkowitzEM,ShariffAF.Climatechangeandmoraljudgement.NatClimChang.2012;2:243–247. https://doi.org/10.1038/nclimate1378
+
+[62] Boto-Garc´ıaD,BucciolA.Climatechange:Personalresponsibilityandenergysaving.EcolEcon.2020; 169:106530.https://doi.org/10.1016/j.ecolecon.2019.106530
+
+[63] LorenzoniI,Nicholson-ColeS,WhitmarshL.Barriersperceivedtoengagingwithclimatechange amongtheUKpublicandtheirpolicyimplications.GlobEnvironChang.2007;17:445–459.https://doi. org/10.1016/j.gloenvcha.2007.01.004
+
+[64] FritzeJC,BlashkiGA,BurkeS,WisemanJ.Hope,despairandtransformation:Climatechangeandthe promotionofmentalhealthandwellbeing.IntJMentHealthSyst.2008;2:13.https://doi.org/10.1186/ 1752-4458-2-13PMID:18799005
+
+[65] HornseyMJ,FieldingKS,McStayR,ReserJP,BradleyGL,GreenawayKH.Evidenceformotivated control:Understandingtheparadoxicallinkbetweenthreatandefficacybeliefsaboutclimatechange.J EnvironPsychol.2015;42:57–65.https://doi.org/10.1016/j.jenvp.2015.02.003 PLOSONE|https://doi.org/10.1371/journal.pone.0266387 April5,2022 13/14 PLOS ONE MultilevelpredictorsofclimatechangebeliefsinAfrica
+
+[66] MilfontTL.TheInterplayBetweenKnowledge,PerceivedEfficacy,andConcernAboutGlobalWarming andClimateChange:AOne-YearLongitudinalStudy.RiskAnal.2012;32.https://doi.org/10.1111/j. 1539-6924.2012.01800.xPMID:22489642
+
+[67] HallegatteS,RozenbergJ.Climatechangethroughapovertylens.NatClimChang.2017;7:250–256. https://doi.org/10.1038/nclimate3253
+
+[68] BainPG,HornseyMJ,BongiornoR,JeffriesC.Promotingpro-environmentalactioninclimatechange deniers.NatClimChang.2012;2:600–603.https://doi.org/10.1038/nclimate1532
+
+[69] AdgerWN,PulhinJM,BarnettJ,DabelkoGD,HovelsrudGK,LevyM,etal.HumanSecurity.Climate Change2014:Impacts,Adaptation,andVulnerabilityPartB:RegionalAspectsContributionofWorking GroupIItotheFifthAssessmentReportoftheIntergovernmentalPanelonClimateChange. NewYork: CambridgeUniversityPress;2014.
+
+[70] OwusuM,Nursey-BrayM,RuddD.Genderedperceptionandvulnerabilitytoclimatechangeinurban slumcommunitiesinAccra,Ghana.RegEnvironChang.2019;19:13–25.https://doi.org/10.1007/ s10113-018-1357-z PLOSONE|https://doi.org/10.1371/journal.pone.0266387 April5,2022 14/14
+
+
+---
+
+## VERIFICATION REQUIREMENTS
+
+For EACH reference above, you must:
+
+### 1. Independent Verification
+- Search **Semantic Scholar** API first (primary source)
+- Fallback to **Google Scholar** if Semantic Scholar fails
+- Verify **DOI** using CrossRef if provided
+- Check publisher websites when available
+
+### 2. Verification Checklist
+For each reference, confirm:
+- [ ] **Title** matches exactly (or semantically identical)
+- [ ] **Authors** confirmed (all names, correct order)
+- [ ] **Year** confirmed
+- [ ] **Publication venue** confirmed (journal/book/conference name, volume, issue, pages)
+- [ ] **Abstract or summary** retrieved
+- [ ] **Content relevance** assessable
+
+### 3. Quality Assessment
+For each verified journal article:
+- Search **SCImago Journal Rank (SJR)** database
+- Record SJR score and quartile (Q1, Q2, Q3, Q4)
+- Note journal subject area and category
+- For books/reports/theses: Mark as "N/A (not indexed)"
+- For conference papers: Note conference ranking if available, else "N/A"
+- If SJR not found: Mark as "Not found in SJR database" (NOT "N/A")
+
+### 4. Documentation Requirements
+For EACH reference, document:
+- **What was found**: Exact details from verification source
+- **What matches**: Specific elements that align with cited reference
+- **What differs**: Any discrepancies, even minor ones
+- **Confidence level**: HIGH/MEDIUM/LOW/FAILED
+
+---
+
+## OUTPUT FORMAT REQUIRED
+
+Create a markdown file named: `{filename.replace('.pdf', '')}_ReferenceAudit.md`
+
+The report MUST include:
+
+1. **Document Metadata Section**
+   - Document title
+   - Date of audit (ISO 8601 format)
+   - Total references listed
+   - Citation style
+   - Audit status
+
+2. **Executive Summary**
+   - Verified references: X/Y (Z%)
+   - Failed verifications
+   - Orphan references
+   - Misrepresentations detected
+   - Fabricated references (suspected)
+   - Overall quality assessment
+
+3. **Detailed Verification Table**
+   | Ref # | Reference (Short Form) | Verification Status | Evidence from Scholar | Accurate as Cited? | Notes | Reference Quality (SJR) |
+   |-------|------------------------|---------------------|----------------------|-------------------|-------|------------------------|
+
+4. **Detailed Analysis per Reference**
+   For each reference, provide comprehensive analysis following CLAUDE.md Section 4 format.
+
+5. **Quality Distribution**
+   - Q1 journals: X (XX%)
+   - Q2 journals: X (XX%)
+   - Q3 journals: X (XX%)
+   - Q4 journals: X (XX%)
+   - Not indexed: X (XX%)
+   - Average SJR score
+
+6. **Critical Findings**
+   - Fabricated references (suspected)
+   - Misrepresented sources
+   - Low-quality sources
+
+7. **Recommendations**
+   - For student
+   - For supervisor
+   - Overall assessment
+
+---
+
+## STRICT VERIFICATION STANDARDS
+
+### Zero Assumptions Policy
+- **NEVER** assume a reference is correct without verification
+- **NEVER** fill in missing information speculatively
+- **NEVER** accept partial matches as verification
+- **ALWAYS** document why verification failed or is incomplete
+
+### When to Mark "CANNOT VERIFY"
+Document explicitly when verification is impossible and state the specific reason:
+- Source not found in any database → "Exhaustive search yielded no results"
+- Ambiguous match → "Multiple similar papers found; cannot confirm which is cited"
+- Incomplete reference → "Missing [elements]; insufficient information to locate"
+- Access restricted → "Source identified but abstract not available"
+- Language barrier → "Source in [language]; cannot verify content"
+- Paywall → "Behind paywall; abstract available but full content unverified"
+- Grey literature → "Not indexed; institutional repository link [status]"
+
+### When to Mark "SUSPICIOUS"
+- Pattern of issues: Multiple references from same author/year fail verification
+- Unusual venues: Journal names not in any database
+- Impossible combinations: Author + venue + year don't logically fit
+- Predatory indicators: Signs of predatory publishing
+
+### When to Mark "MISREPRESENTED"
+- Content contradiction: Source argues opposite of citation
+- Scope inflation: Narrow study cited as broad finding
+- Method mischaracterization: Qualitative cited as quantitative
+- Cherry-picking: One finding cited, contradictory findings ignored
+- Context removal: Quote cited without critical context
+
+---
+
+## IMPORTANT NOTES
+
+**Note 1**: This is a validation dataset audit. The purpose is to test the AI-Powered Citation Auditor methodology's accuracy and reliability.
+
+**Note 2**: Document EVERY search attempt, EVERY verification result, and EVERY reason for failure. This data is critical for methodology validation.
+
+**Note 3**: Do NOT skip any references. All {reference_count} references must be audited.
+
+**Note 4**: Use actual API searches - do NOT rely on LLM training data knowledge. Fresh verification only.
+
+---
+
+**Protocol Version**: CLAUDE.md v1.0 (2025-10-17)
+**Methodology**: AI-Powered Citation Auditor for Agents4Science 2025

@@ -1,274 +1,39 @@
-# AI Citation Auditor - Git Ignore File
-# Excludes sensitive academic documents and personal data
+# AI-Citation-Auditor .gitignore
 
-# ========================================
-# CRITICAL: Student/Academic Documents
-# ========================================
-# NEVER commit original student work, manuscripts, or confidential documents
+# EXCLUDE ALL DOWNLOADED PAPERS
+temp_papers/
+*.pdf
 
-# Microsoft Word Documents
-*.docx
-*.doc
-*.docm
-
-# Extracted text files from documents
-*_extracted.txt
-*_body.txt
-*_references.txt
-*_references_only.txt
-
-# Document-specific data files
-*_structured_refs.json
-*_citations.json
-*_citation_matching_results.json
-*_references_parsed.json
-
-# Temporary extraction files
-valarie_*.txt
-valarie_*.json
-adrian_*.txt
-adrian_*.json
-thomas_*.txt
-thomas_*.json
-
-# ========================================
-# Audit Reports (Keep anonymized examples only)
-# ========================================
-# Commit only sanitized examples in audit-reports/
-# Exclude all personal/identifiable audit results
-
-# Personal audit results (exclude from repo)
-*_ReferenceAudit_PERSONAL.md
-*_CONFIDENTIAL.md
-*_DRAFT.md
-
-# Original audit reports with student names
-# (Only anonymized versions should be in audit-reports/)
-# If naming pattern includes student names, add here:
-# Example: Valarie_Taderera_*.md
-# Example: Adrian_Mombo_*.md
-
-# ========================================
 # Python
-# ========================================
 __pycache__/
 *.py[cod]
-*$py.class
 *.so
 .Python
+env/
+venv/
+ENV/
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
-# Virtual environments
-venv/
-env/
-ENV/
-env.bak/
-venv.bak/
-
-# ========================================
-# IDEs and Editors
-# ========================================
+# IDE
 .vscode/
 .idea/
 *.swp
-*.swo
-*~
 .DS_Store
-Thumbs.db
 
-# ========================================
-# Claude CLI
-# ========================================
-.claude/
-.claude_history
-claude_output/
-claude_logs/
+# Jupyter Notebook
+.ipynb_checkpoints
 
-# ========================================
-# Logs and Temporary Files
-# ========================================
+# Logs
 *.log
+
+# Testing
+.pytest_cache/
+
+# Temporary files
 *.tmp
-*.temp
 *.bak
-*.backup
-temp/
-tmp/
-
-# ========================================
-# OS-specific
-# ========================================
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-
-# Linux
-*~
-.directory
-.Trash-*
-
-# ========================================
-# Data and Analysis
-# ========================================
-# Exclude large datasets and analysis outputs
-data/
-raw_data/
-processed_data/
-*.csv
-*.xlsx
-*.xls
-analysis_output/
-figures/
-plots/
-
-# Keep only example/sample data
-!examples/sample_*.csv
-!examples/demo_*.json
-
-# ========================================
-# Academic/Research Specific
-# ========================================
-# Unpublished papers and drafts
-drafts/
-*_DRAFT.pdf
-*_UNPUBLISHED.pdf
-manuscript_*.pdf
-submission_*.pdf
-
-# Ethics and IRB documents
-ethics/
-irb/
-consent_forms/
-participant_data/
-
-# Grant applications
-grants/
-funding/
-
-# Reviewer comments (keep private)
-reviews/
-reviewer_comments/
-*_REVIEW.pdf
-
-# ========================================
-# Configuration Files with Secrets
-# ========================================
-.env
-.env.local
-.env.*.local
-secrets.yml
-credentials.json
-config_private.yml
-
-# ========================================
-# Archives and Compressed Files
-# ========================================
-*.zip
-*.tar.gz
-*.rar
-*.7z
-*.tar
-
-# Except sample archives in examples/
-!examples/*.zip
-
-# ========================================
-# Database Files
-# ========================================
-*.db
-*.sqlite
-*.sqlite3
-
-# ========================================
-# Keep These Files
-# ========================================
-# Explicitly include important files that might match patterns above
-
-# Keep protocol files
-!protocol/CLAUDE.md
-!protocol/extract_docx.py
-
-# Keep documentation
-!README.md
-!METHODOLOGY.md
-!CITATION.md
-!LICENSE
-!CHANGELOG.md
-
-# Keep example audit reports (anonymized)
-!audit-reports/MASTER_AUDIT_SUMMARY.md
-!audit-reports/Example_*.md
-!audit-reports/README.md
-
-# Keep sample data
-!examples/sample_references.md
-!examples/README.md
-
-# Keep analysis scripts
-!analysis/*.py
-!analysis/README.md
-
-# Keep docs
-!docs/*.md
-
-# ========================================
-# Project-Specific Exclusions
-# ========================================
-
-# Exclude any files with "LJVR" (supervisor initials)
-*LJVR*.docx
-*LJVR*.md
-
-# Exclude specific student documents by pattern
-*Taderera*.docx
-*Mombo*.docx
-*Makwarela*.docx
-*_dissertation_*.docx
-*_thesis_*.docx
-*_proposal_*.docx
-
-# Batch processing logs
-batch_processing_log.txt
-processing_errors.log
-
-# ========================================
-# Notes
-# ========================================
-# This .gitignore prioritizes privacy and confidentiality
-# Original student documents MUST NEVER be committed
-# Only anonymized, sanitized examples should be in the repository
-#
-# Before committing ANY audit report, ensure:
-# 1. Student names are removed or anonymized
-# 2. Institution identifiers are removed
-# 3. Supervisor names are removed
-# 4. Document titles are generalized
-# 5. Sensitive content is redacted
-#
-# Use: git status --ignored
-# To verify what's being excluded
+*.cache

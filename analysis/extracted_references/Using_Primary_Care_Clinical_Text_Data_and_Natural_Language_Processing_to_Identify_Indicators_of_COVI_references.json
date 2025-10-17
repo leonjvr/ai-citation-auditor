@@ -1,0 +1,28 @@
+{
+  "filename": "Using_Primary_Care_Clinical_Text_Data_and_Natural_Language_Processing_to_Identify_Indicators_of_COVI.pdf",
+  "status": "success",
+  "reference_count": 20,
+  "references": [
+    "[1] WorldHealthOrganization.WHOCoronavirus(COVID-19)Dashboard.URLaccessedSeptember28, 2022https://covid19.who.int/",
+    "[2] DarbyA.,HiscoxJ.(2021).COVID-19:VaccinesandVariants.BritishMedicalJournal. 372,pp.1–2",
+    "[3] LauringA.,MalaniP.(2021).VariantsofSARSCoV-2.JournaloftheAmericanMedicalAssociation.",
+    "[4] WalenskyR.,WalkeH.,FauciA.SARS-CoV-2VariantsofConcernintheUnitedStates–Challenges andOpportunities.JournaloftheAmericanMedicalAssociation. 325,11,pp.1037–1038.https://doi. org/10.1001/jama.2021.2294PMID:33595644",
+    "[5] CallaghanT.,MoghtaderiA.,LueckJ.,HotezP.,StrychU.,DorA.,etal.(2021).CorrelatesandDispari- tiesofIntentiontoVaccinateAgainstCOVID-19.SocialScienceinMedicine.Pp.1–5.https://doi.org/ 10.1016/j.socscimed.2020.113638PMID:33414032",
+    "[6] FormanR.,ShahS.,JeurissenP.,JitM.,MossialosE.(2021).COVID-19VaccineChallenges:What haveweLearnedsoFarandWhatRemainstobeDone?.HealthPolicy. 235,pp.553–567.",
+    "[7] MachingaidzeS.,WiysongeC.(2021).UnderstandingCOVID-19VaccineHesitancy.NatureMedicine. 27,pp.1328–1329.",
+    "[8] PadmaT.(2021).CovidVaccinestoReachPoorestCountriesin2023–DespiteRecentPledges. Nature. 595,7876,pp.342–343.https://doi.org/10.1038/d41586-021-01762-wPMID:34226742",
+    "[9] CraneM.,ShermockK.,OmerS.,RomleyJ.(2020).ChangeinReportedAdherencetoNonPharma- ceuticalInterventionsDuringtheCOVID-19Pandemic:April-November2020.JournaloftheAmerican MedicalAssociation. 325,9,pp.883.",
+    "[10] DooganC.,BuntineW.,LingerH.,BruntS.(2020).PublicPerceptionsandAttitudesTowardCOVID-19 NonPharmaceuticalInterventionsAcrossSixCountries:ATopicModelingAnalysisofTwitterData. JournalofMedicalInternetResearch. 22,pp.1–11.",
+    "[11] BuckeeC.,BalsariS.,ChanJ.,CrosasM.,DominiciF.,GasserU.,etal.AgregatedMobilityDataCould HelpFightCOVID-19.(2020).Science. 10.1126.",
+    "[12] LamposV.,MajumderM.,Yom-TovE.,EdelsteinM.,MouraS.,RangakaM.,etal.(2020).Tracking COVID-19UsingOnlineSearch.NatureDigitalMedicine. 4,17,s41746-021-00384-w.",
+    "[13] BuddJ.,MillerB.,ManningE.,LamposV.,ZhuangM.,EdelsteinM.,etal.(2020).DigitalTechnologies inthePublicHealthResponsetoCOVID-19.NatureMedicine. 26,pp.1183–1192.https://doi.org/10. 1038/s41591-020-1011-4PMID:32770165",
+    "[14] PecciaJ.,ZulliA.,BrackneyD.,GrubaughN.,KaplanE.,MassanaA.,etal.(2020).Measurementof SARS-CoV-2RNAinWastewaterTracksCommunityInfectionDynamics.NatureBiotechnology. 38,pp.1164–1167.https://doi.org/10.1038/s41587-020-0684-zPMID:32948856",
+    "[15] Chapman,A.,Peterson,K.,Turano,A.,Box,T.,Wallace,K.,Jones,M.(2020).ANaturalLanguage ProcessingSystemforNationalCOVID-19SurveillanceintheUSDepartmentofVeteran’sAffairs.Pro- ceedingontheFirstWorkshoponNLPforCOVID-19atACL2020.",
+    "[16] LiuV.,ThaiK.,GallinJ.,GerstleyL.,MyersL.,ParodiS.,etal.(2021).DevelopmentofaHealthcare SystemCOVID-19HotspottingScoreinCalifornia:AnObservationalStudywithProspectiveValidation. BMJOpen. 11:e048211.",
+    "[17] TorontoPublicHealth.COVID-19MonitoringDashboard.URLAccessedAugust26,2021.https://www. toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-pandemic-data/covid-19- monitoring-dashboard-data/",
+    "[18] HarkemaH.,DowlingJ.,ThornbladeT.,ChapmanW.(2009).ConText:AnAlgorithmforDetermining Negation,Experiencer,andTemporalStatusfromClinicalReports.JournalofBiomedicalInformatics. 42,5,pp.839–851.https://doi.org/10.1016/j.jbi.2009.05.002PMID:19435614",
+    "[19] BratG.,WeberG.,GehlenborgN.,AvillachP.,PalmerN.,ChiovatoL.,etal.(2020).InternationalElec- tronicHealthRecordDrivenCOVID-19ClinicalCourseProfiles:the4CEConsortium.NatureDigital Medicine. 3,109,pp.s41756-020-00308-0. PLOSDigitalHealth|https://doi.org/10.1371/journal.pdig.0000150 December7,2022 14/15 PLOS DIGITAL HEALTH NaturallanguageprocessingformonitoringCOVID-19",
+    "[20] KlannJ.,EstiriH.,WeberG.,MoalB.,AvillachP.,HongC.,etal.(2020).ValidationofanInternationally DerivedPatientSeverityPhenotypetoSupportCOVID-19AnalyticsfromElectronicHealthRecord Data.JournaloftheAmericanMedicalInformaticsAssociation. 28,7,pp.1411–1420. PLOSDigitalHealth|https://doi.org/10.1371/journal.pdig.0000150 December7,2022 15/15"
+  ],
+  "raw_section_preview": "1. WorldHealthOrganization.WHOCoronavirus(COVID-19)Dashboard.URLaccessedSeptember28,\n2022https://covid19.who.int/\n2. DarbyA.,HiscoxJ.(2021).COVID-19:VaccinesandVariants.BritishMedicalJournal. 372,pp.1–2\n3. LauringA.,MalaniP.(2021).VariantsofSARSCoV-2.JournaloftheAmericanMedicalAssociation.\n4. WalenskyR.,WalkeH.,FauciA.SARS-CoV-2VariantsofConcernintheUnitedStates–Challenges\nandOpportunities.JournaloftheAmericanMedicalAssociation. 325,11,pp.1037–1038.https://doi.\norg/10.1001/jama.2021.2294PMID:33595644\n5. CallaghanT.,MoghtaderiA.,LueckJ.,HotezP.,StrychU.,DorA.,etal.(2021).CorrelatesandDispari-\ntiesofIntentiontoVaccinateAgainstCOVID-19.SocialScienceinMedicine.Pp.1–5.https://doi.org/\n10.1016/j.socscimed.2020.113638PMID:33414032\n6. FormanR.,ShahS.,JeurissenP.,JitM.,MossialosE.(2021).COVID-19VaccineChallenges:What\nhaveweLearnedsoFarandWhatRemainstobeDone?.HealthPolicy. 235,pp.553–567.\n7. MachingaidzeS.,WiysongeC.(2021).UnderstandingCOVID-19VaccineHesitancy.NatureMedicine.\n27,pp.1328–1329.\n8...."
+}

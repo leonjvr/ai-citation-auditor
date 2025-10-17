@@ -1,0 +1,131 @@
+{
+  "batch_info": {
+    "total_papers": 24,
+    "total_references": 1212,
+    "audit_protocol": "CLAUDE.md v1.0",
+    "methodology": "AI-Powered Citation Auditor",
+    "purpose": "Validation for Agents4Science 2025 conference paper"
+  },
+  "papers": [
+    {
+      "paper": "Analysis_of_the_spatio-temporal_coupling_coordination_mechanism_supporting_economic_resilience_and_h.pdf",
+      "references": 52,
+      "input_file": "audit_inputs\\Analysis_of_the_spatio-temporal_coupling_coordination_mechanism_supporting_economic_resilience_and_h_AuditInput.md"
+    },
+    {
+      "paper": "A_comprehensive_scan_of_psychological_disciplines_through_self-identification_on_Google_Scholar__Rel.pdf",
+      "references": 35,
+      "input_file": "audit_inputs\\A_comprehensive_scan_of_psychological_disciplines_through_self-identification_on_Google_Scholar__Rel_AuditInput.md"
+    },
+    {
+      "paper": "A_systematic_review_of_fuzzing_based_on_machine_learning_techniques.pdf",
+      "references": 133,
+      "input_file": "audit_inputs\\A_systematic_review_of_fuzzing_based_on_machine_learning_techniques_AuditInput.md"
+    },
+    {
+      "paper": "Beyond_high_hopes__A_scoping_review_of_the_2019_2021_scientific_discourse_on_machine_learning_in_med.pdf",
+      "references": 124,
+      "input_file": "audit_inputs\\Beyond_high_hopes__A_scoping_review_of_the_2019_2021_scientific_discourse_on_machine_learning_in_med_AuditInput.md"
+    },
+    {
+      "paper": "China_s_economic_development_quality_grows_faster_than_economic_quantity.pdf",
+      "references": 22,
+      "input_file": "audit_inputs\\China_s_economic_development_quality_grows_faster_than_economic_quantity_AuditInput.md"
+    },
+    {
+      "paper": "Climate_change_impacts_on_population_growth_across_a_species__range_differ_due_to_nonlinear_response.pdf",
+      "references": 48,
+      "input_file": "audit_inputs\\Climate_change_impacts_on_population_growth_across_a_species__range_differ_due_to_nonlinear_response_AuditInput.md"
+    },
+    {
+      "paper": "COVID-19-related_stigma_among_infected_people_in_Sweden__psychometric_properties_and_levels_of_stigm.pdf",
+      "references": 40,
+      "input_file": "audit_inputs\\COVID-19-related_stigma_among_infected_people_in_Sweden__psychometric_properties_and_levels_of_stigm_AuditInput.md"
+    },
+    {
+      "paper": "Cytoplasmic_and_Genomic_Effects_on_Non-Meiosis-Driven_Genetic_Changes_in_Brassica_Hybrids_and_Allote.pdf",
+      "references": 32,
+      "input_file": "audit_inputs\\Cytoplasmic_and_Genomic_Effects_on_Non-Meiosis-Driven_Genetic_Changes_in_Brassica_Hybrids_and_Allote_AuditInput.md"
+    },
+    {
+      "paper": "Dynamics_of_labor_and_capital_in_AI_vs__non-AI_industries__A_two-industry_model_analysis.pdf",
+      "references": 48,
+      "input_file": "audit_inputs\\Dynamics_of_labor_and_capital_in_AI_vs__non-AI_industries__A_two-industry_model_analysis_AuditInput.md"
+    },
+    {
+      "paper": "Eight_quick_tips_for_biologically_and_medically_informed_machine_learning.pdf",
+      "references": 94,
+      "input_file": "audit_inputs\\Eight_quick_tips_for_biologically_and_medically_informed_machine_learning_AuditInput.md"
+    },
+    {
+      "paper": "Evolution_characteristics_of_temporal_and_spatial_pattern_of_Russian_economic_differences_since_the_.pdf",
+      "references": 30,
+      "input_file": "audit_inputs\\Evolution_characteristics_of_temporal_and_spatial_pattern_of_Russian_economic_differences_since_the__AuditInput.md"
+    },
+    {
+      "paper": "How_childhood_psychological_abuse_affects_adolescent_cyberbullying__The_chain_mediating_role_of_self.pdf",
+      "references": 71,
+      "input_file": "audit_inputs\\How_childhood_psychological_abuse_affects_adolescent_cyberbullying__The_chain_mediating_role_of_self_AuditInput.md"
+    },
+    {
+      "paper": "Influence_of_artificial_intelligence_in_education_on_adolescents__social_adaptability__The_mediatory.pdf",
+      "references": 31,
+      "input_file": "audit_inputs\\Influence_of_artificial_intelligence_in_education_on_adolescents__social_adaptability__The_mediatory_AuditInput.md"
+    },
+    {
+      "paper": "Intrapopulation_Genome_Size_Variation_in_D__melanogaster_Reflects_Life_History_Variation_and_Plastic.pdf",
+      "references": 33,
+      "input_file": "audit_inputs\\Intrapopulation_Genome_Size_Variation_in_D__melanogaster_Reflects_Life_History_Variation_and_Plastic_AuditInput.md"
+    },
+    {
+      "paper": "MLpronto__A_tool_for_democratizing_machine_learning.pdf",
+      "references": 21,
+      "input_file": "audit_inputs\\MLpronto__A_tool_for_democratizing_machine_learning_AuditInput.md"
+    },
+    {
+      "paper": "Multilevel_predictors_of_climate_change_beliefs_in_Africa.pdf",
+      "references": 70,
+      "input_file": "audit_inputs\\Multilevel_predictors_of_climate_change_beliefs_in_Africa_AuditInput.md"
+    },
+    {
+      "paper": "Performance_analysis_of_hospitals_before_and_during_the_COVID-19_in_Iran__A_cross-sectional_study.pdf",
+      "references": 54,
+      "input_file": "audit_inputs\\Performance_analysis_of_hospitals_before_and_during_the_COVID-19_in_Iran__A_cross-sectional_study_AuditInput.md"
+    },
+    {
+      "paper": "Predictors_and_correlates_of_self-reported_climate_anxiety_in_the_United_States.pdf",
+      "references": 63,
+      "input_file": "audit_inputs\\Predictors_and_correlates_of_self-reported_climate_anxiety_in_the_United_States_AuditInput.md"
+    },
+    {
+      "paper": "Taking_an_educational_psychology_course_improves_neuroscience_literacy_but_does_not_reduce_belief_in.pdf",
+      "references": 62,
+      "input_file": "audit_inputs\\Taking_an_educational_psychology_course_improves_neuroscience_literacy_but_does_not_reduce_belief_in_AuditInput.md"
+    },
+    {
+      "paper": "The_background_and_experience_of_neuroscience_teachers_in_Australian_universities__A_cross-sectional.pdf",
+      "references": 21,
+      "input_file": "audit_inputs\\The_background_and_experience_of_neuroscience_teachers_in_Australian_universities__A_cross-sectional_AuditInput.md"
+    },
+    {
+      "paper": "Think__Theory_for_Africa.pdf",
+      "references": 16,
+      "input_file": "audit_inputs\\Think__Theory_for_Africa_AuditInput.md"
+    },
+    {
+      "paper": "Two_Low_Coverage_Bird_Genomes_and_a_Comparison_of_Reference-Guided_versus_De_Novo_Genome_Assemblies.pdf",
+      "references": 40,
+      "input_file": "audit_inputs\\Two_Low_Coverage_Bird_Genomes_and_a_Comparison_of_Reference-Guided_versus_De_Novo_Genome_Assemblies_AuditInput.md"
+    },
+    {
+      "paper": "Using_Primary_Care_Clinical_Text_Data_and_Natural_Language_Processing_to_Identify_Indicators_of_COVI.pdf",
+      "references": 20,
+      "input_file": "audit_inputs\\Using_Primary_Care_Clinical_Text_Data_and_Natural_Language_Processing_to_Identify_Indicators_of_COVI_AuditInput.md"
+    },
+    {
+      "paper": "Why_men_are_the_minority__The_perceptions_of_young_men_in_UK_post-primary_education_about_studying_p.pdf",
+      "references": 52,
+      "input_file": "audit_inputs\\Why_men_are_the_minority__The_perceptions_of_young_men_in_UK_post-primary_education_about_studying_p_AuditInput.md"
+    }
+  ]
+}
