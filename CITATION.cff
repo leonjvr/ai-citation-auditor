@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AI-Powered Citation Auditor: A Zero-Assumption Protocol for Reference Verification"
+version: 1.0.0
+date-released: "2025-10-17"
+url: "https://github.com/leonjvr/ai-citation-auditor"
+repository-code: "https://github.com/leonjvr/ai-citation-auditor"
+license: MIT
+authors:
+  - family-names: "Janse van Rensburg"
+    given-names: "LJ"
+    affiliation: "University of Johannesburg"
+    orcid: "https://orcid.org/0000-0002-0104-2865"
+    name-particle: ""
+keywords:
+  - citation auditing
+  - reference verification
+  - academic integrity
+  - agentic AI
+  - LLM agents
+  - bibliography quality control
+  - scholarly communication
+abstract: >
+  A rigorous, AI-powered methodology for conducting comprehensive
+  reference and citation audits in academic manuscripts. This zero-assumption
+  protocol employs Agentic Generative AI with access to Semantic Scholar,
+  Google Scholar, and academic databases to systematically verify references,
+  detect fabricated sources, identify citation errors, and assess journal
+  quality. The methodology has been empirically tested across 6 academic
+  documents (1,369 references) spanning honours projects to doctoral theses,
+  achieving 76.8% average verification rate with 95%+ time efficiency
+  compared to manual review.
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Janse van Rensburg"
+      given-names: "LJ"
+      affiliation: "University of Johannesburg"
+      orcid: "https://orcid.org/0000-0002-0104-2865"
+  title: "AI-Powered Methodology for Comprehensive Reference and Citation Audits in Academic Manuscripts"
+  collection-title: "Proceedings of the 1st Open Conference on AI Agents for Science"
+  conference:
+    name: "Agents4Science 2025"
+    location: "Virtual"
+    date-start: "2025-[TBD]"
+    date-end: "2025-[TBD]"
+  year: 2025
+  url: "https://agents4science.stanford.edu"
