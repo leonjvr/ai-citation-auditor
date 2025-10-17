@@ -1,0 +1,408 @@
+{
+  "metadata": {
+    "collection_date": "2025-10-17T11:32:52.298509",
+    "total_papers": 24,
+    "methodology": "AI-Powered Citation Auditor v1.0",
+    "purpose": "Methodology validation and statistical significance testing",
+    "license": "Metadata only - papers are open access",
+    "note": "This dataset contains only links and metadata. Download papers from DOI/URL."
+  },
+  "papers": [
+    {
+      "source": "PLOS",
+      "title": "A systematic review of fuzzing based on machine learning techniques",
+      "authors": [
+        "Yan Wang",
+        "Peng Jia",
+        "Luping Liu",
+        "Cheng Huang",
+        "Zhonglin Liu"
+      ],
+      "publication_date": "2020-08-18T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0237749",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237749",
+      "article_type": "Research Article",
+      "abstract": "\nSecurity vulnerabilities play a vital role in network security system. Fuzzing technology is widely used as a vulnerability discovery technology to reduce damage in advance. However, traditional fuzz testing faces many challenges, such as how to mutate input seed files, how to increase code coverage, and how to bypass the format verification effectively. Therefore machine learning techniques have been introduced as a new method into fuzz testing to alleviate these challenges. This paper reviews the research progress of using machine learning techniques for fuzz testing in recent years, analyzes how machine learning improves the fuzzing process and results, and sheds light on future work in fuzzing. Firstly, this paper discusses the reasons why machine learning techniques can be used for fuzzing scenarios and identifies five different stages in which machine learning has been used. Then this paper systematically studies machine learning-based fuzzing models from five dimensions of selection of machine learning algorithms, pre-processing methods, datasets, evaluation metrics, and hyperparameters setting. Secondly, this paper assesses the performance of the machine learning techniques in existing research for fuzz testing. The results of the evaluation prove that machine learning techniques have an acceptable capability of prediction for fuzzing. Finally, the capability of discovering vulnerabilities both traditional fuzzers and machine learning-based fuzzers is analyzed. The results depict that the introduction of machine learning techniques can improve the performance of fuzzing. We hope to provide researchers with a systematic and more in-depth understanding of fuzzing based on machine learning techniques and provide some references for this field through analysis and summarization of multiple dimensions.\n",
+      "collected_date": "2025-10-17T11:32:42.056157"
+    },
+    {
+      "source": "PLOS",
+      "title": "Eight quick tips for biologically and medically informed machine learning",
+      "authors": [
+        "Luca Oneto",
+        "Davide Chicco"
+      ],
+      "publication_date": "2025-01-09T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1012711",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pcbi.1012711",
+      "article_type": "Education",
+      "abstract": "\nMachine learning has become a powerful tool for computational analysis in the biomedical sciences, with its effectiveness significantly enhanced by integrating domain-specific knowledge. This integration has give rise to informed machine learning, in contrast to studies that lack domain knowledge and treat all variables equally (uninformed machine learning). While the application of informed machine learning to bioinformatics and health informatics datasets has become more seamless, the likelihood of errors has also increased. To address this drawback, we present eight guidelines outlining best practices for employing informed machine learning methods in biomedical sciences. These quick tips offer recommendations on various aspects of informed machine learning analysis, aiming to assist researchers in generating more robust, explainable, and dependable results. Even if we originally crafted these eight simple suggestions for novices, we believe they are deemed relevant for expert computational researchers as well.\n",
+      "collected_date": "2025-10-17T11:32:42.056157"
+    },
+    {
+      "source": "PLOS",
+      "title": "MLpronto: A tool for democratizing machine learning",
+      "authors": [
+        "Jacob Tjaden",
+        "Brian Tjaden"
+      ],
+      "publication_date": "2023-11-30T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0294924",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294924",
+      "article_type": "Research Article",
+      "abstract": "\nThe democratization of machine learning is a popular and growing movement. In a world with a wealth of publicly available data, it is important that algorithms for analysis of data are accessible and usable by everyone. We present MLpronto, a system for machine learning analysis that is designed to be easy to use so as to facilitate engagement with machine learning algorithms. With its web interface, MLpronto requires no computer programming or machine learning background, and it normally returns results in a matter of seconds. As input, MLpronto takes a file of data to be analyzed. MLpronto then executes some of the more commonly used supervised machine learning algorithms on the data and reports the results of the analyses. As part of its execution, MLpronto generates computer programming code corresponding to its machine learning analysis, which it also supplies as output. Thus, MLpronto can be used as a no-code solution for citizen data scientists with no machine learning or programming background, as an educational tool for those learning about machine learning, and as a first step for those who prefer to engage with programming code in order to facilitate rapid development of machine learning projects. MLpronto is freely available for use at https://mlpronto.org/.\n",
+      "collected_date": "2025-10-17T11:32:42.056157"
+    },
+    {
+      "source": "PLOS",
+      "title": "Predictors and correlates of self-reported climate anxiety in the United States",
+      "authors": [
+        "Katherine Kricorian",
+        "Christopher Kricorian",
+        "Karin Turner"
+      ],
+      "publication_date": "2025-07-16T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pclm.0000534",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pclm.0000534",
+      "article_type": "Research Article",
+      "abstract": "\nClimate change has many adverse human health effects, including increased self-reported anxiety. However, self-reported climate anxiety may also motivate productive climate action. An online survey among US residents was developed based on prior scholarship and distributed to examine factors associated with self-reported climate anxiety. A sample of N = 2,000 US adults age 18 + completed the survey. Logistic regression analysis showed that significant predictors of self-reported climate anxiety include: greater media exposure to climate change information, more frequent discussions about climate change with friends and family, the perception that climate change will soon impact one personally, being younger, and being female. Additional analyses suggested that self-reported climate anxiety is associated with both positive and negative emotional impacts, including motivation, interest, sadness, and tension. Climate anxiety was also associated with greater engagement in environmental behaviors such as recycling. Volunteering for environmental causes and accessing straightforward climate information with less scientific jargon showed particular potential for anxiety reduction. The research suggests practical strategies to potentially reduce self-reported climate anxiety while retaining engagement in mitigating climate change.\n",
+      "collected_date": "2025-10-17T11:32:43.322046"
+    },
+    {
+      "source": "PLOS",
+      "title": "Climate change impacts on population growth across a species’ range differ due to nonlinear responses of populations to climate and variation in rates of climate change",
+      "authors": [
+        "Allison M Louthan",
+        "William Morris"
+      ],
+      "publication_date": "2021-03-03T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0247290",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247290",
+      "article_type": "Research Article",
+      "abstract": "\nImpacts of climate change can differ substantially across species’ geographic ranges, and impacts on a given population can be difficult to predict accurately. A commonly used approximation for the impacts of climate change on the population growth rate is the product of local changes in each climate variable (which may differ among populations) and the sensitivity (the derivative of the population growth rate with respect to that climate variable), summed across climate variables. However, this approximation may not be accurate for predicting changes in population growth rate across geographic ranges, because the sensitivities to climate variables or the rate of climate change may differ among populations. In addition, while this approximation assumes a linear response of population growth rate to climate, population growth rate is typically a nonlinear function of climate variables. Here, we use climate-driven integral projection models combined with projections of future climate to predict changes in population growth rate from 2008 to 2099 for an uncommon alpine plant species, Douglasia alaskana, in a rapidly warming location, southcentral Alaska USA. We dissect the causes of among-population variation in climate change impacts, including magnitude of climate change in each population and nonlinearities in population response to climate change. We show that much of the variation in climate change impacts across D. alaskana’s range arises from nonlinearities in population response to climate. Our results highlight the critical role of nonlinear responses to climate change impacts, suggesting that current responses to increases in temperature or changes in precipitation may not continue indefinitely under continued changes in climate. Further, our results suggest the degree of nonlinearity in climate responses and the shape of responses (e.g., convex or concave) can differ substantially across populations, such that populations may differ dramatically in responses to future climate even when their current responses are quite similar.\n",
+      "collected_date": "2025-10-17T11:32:43.322046"
+    },
+    {
+      "source": "PLOS",
+      "title": "Multilevel predictors of climate change beliefs in Africa",
+      "authors": [
+        "Juan B González",
+        "Alfonso Sánchez"
+      ],
+      "publication_date": "2022-04-05T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0266387",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266387",
+      "article_type": "Research Article",
+      "abstract": "\nAlthough Africa is the most vulnerable region to climate change, little research has focused on how climate change is perceived by Africans. Using random forest methodology, we analyze survey and climate data from second-order political boundaries to explore what predicts climate change beliefs in Africa. We include five different dimensions of climate change beliefs: climate change awareness, belief in anthropogenic climate change, risk perception, the need to stop climate change, and self-efficacy. Based on these criteria we identify five key results: (1) climate change in Africa is largely perceived through its negative impacts on agriculture; (2) actual changes in local climate conditions are related to climate change beliefs; (3) authoritarian and intolerant ideologies are associated to less climate change awareness, and a diminished risk perception and belief that it must be stopped; (4) women are less likely to be aware of climate change, and (5) not speaking French, English or Portuguese is linked to a hindered understanding of climate beliefs. Our combined results can help policy makers better understand the need to jointly consider the multilevel complexities of individual beliefs and hydroclimatic data for the development of more accurate adaptation and mitigation strategies to combat the impacts of climate change in Africa.\n",
+      "collected_date": "2025-10-17T11:32:43.322046"
+    },
+    {
+      "source": "PLOS",
+      "title": "Using Primary Care Clinical Text Data and Natural Language Processing to Identify Indicators of COVID-19 in Toronto, Canada",
+      "authors": [
+        "Christopher Meaney",
+        "Rahim Moineddin",
+        "Sumeet Kalia",
+        "Babak Aliarzadeh",
+        "Michelle Greiver"
+      ],
+      "publication_date": "2022-12-07T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pdig.0000150",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pdig.0000150",
+      "article_type": "Research Article",
+      "abstract": "\nThe objective of this study was to investigate whether a rule-based natural language processing (NLP) system, applied to primary care clinical text data, could be used to monitor COVID-19 viral activity in Toronto, Canada. We employed a retrospective cohort design. We included primary care patients with a clinical encounter between January 1, 2020 and December 31, 2020 at one of 44 participating clinical sites. During the study timeframe, Toronto first experienced a COVID-19 outbreak between March-2020 and June-2020; followed by a second viral resurgence from October-2020 through December-2020. We used an expert derived dictionary, pattern matching tools and contextual analyzer to classify primary care documents as 1) COVID-19 positive, 2) COVID-19 negative, or 3) unknown COVID-19 status. We applied the COVID-19 biosurveillance system across three primary care electronic medical record text streams: 1) lab text, 2) health condition diagnosis text and 3) clinical notes. We enumerated COVID-19 entities in the clinical text and estimated the proportion of patients with a positive COVID-19 record. We constructed a primary care COVID-19 NLP-derived time series and investigated its correlation with independent/external public health series: 1) lab confirmed COVID-19 cases, 2) COVID-19 hospitalizations, 3) COVID-19 ICU admissions, and 4) COVID-19 intubations. A total of 196,440 unique patients were observed over the study timeframe, of which 4,580 (2.3%) had at least one positive COVID-19 document in their primary care electronic medical record. Our NLP-derived COVID-19 time series describing the temporal dynamics of COVID-19 positivity status over the study timeframe demonstrated a pattern/trend which strongly mirrored that of other external public health series under investigation. We conclude that primary care text data passively collected from electronic medical record systems represent a high quality, low-cost source of information for monitoring/surveilling COVID-19 impacts on community health.\nAuthor summary: The coronavirus disease 2019 (COVID-19) pandemic was caused by the viral respiratory pathogen severe acute respiratory syndrome coronavirus-2 (SARS-CoV2). In many countries COVID-19 remains a persistent threat to human health/well-being, with the capability of inducing continued human, social, and economic loss. In this research study we sought to investigate whether high quality clinical narrative data, passively captured (in a cost-effective manner) from primary care patient electronic medical records, could be used as an indicator of COVID-19 viral activity. We applied a rule-based natural language processing (NLP) system to infer the COVID-19 positivity status of primary care text records. Using the rule-based NLP system we identified hundreds of unique COVID-19 entities, and thousands of COVID-19 positive documents, across millions of clinical text records. Over the study timeframe (January 1, 2020 through December 31, 2020), 2.3% of primary care patients had a COVID-19 positive document in their electronic medical record. We observed variation in COVID-19 positivity status by age, gender, and clinic location. The rule-based NLP system performed well on internal validation; further, our NLP derived COVID-19 positivity series demonstrated patterns/trends which strongly mirrored that of other external public health series under investigation. We conclude that primary care text data passively collected from electronic medical record systems represent a high quality, low-cost source of information for monitoring/surveilling COVID-19 impacts on community health. ",
+      "collected_date": "2025-10-17T11:32:44.648686"
+    },
+    {
+      "source": "PLOS",
+      "title": "Performance analysis of hospitals before and during the COVID-19 in Iran: A cross-sectional study",
+      "authors": [
+        "Habib Jalilian",
+        "Seyed Mohammad Riahi",
+        "Somayeh Heydari",
+        "Masoomeh Taji"
+      ],
+      "publication_date": "2023-06-22T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0286943",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286943",
+      "article_type": "Research Article",
+      "abstract": "Background and objective: The COVID-19 pandemic placed considerable pressure on the health care systems and caused many disruptions to the care hospital system around the globe. This study aimed to analyze the performance of hospitals affiliated with the University of Medical Sciences and Health Services of South Khorasan Province before and during COVID-19. Method: This cross-sectional study tracked the financial performance (FP) and service performance (SP) of 12 hospitals affiliated with South Khorasan University of Medical Sciences and Health Services using the Farabar system and Hospital Information System (HIS). Our study covered two time periods: from February 2018 to February 2020 (pre-COVID-19) and from February 2020 to February 2021 (during COVID-19). SP analysis of hospitals was performed by examining the trend of monthly changes before and during the COVID-19 pandemic and analyzed using SPSS software version 22 and Paired Sample T-Test. FP of hospitals was analyzed through relevant ratios and analyzed using Microsoft Office Excel. Results: Most SP indicators decreased considerably in all hospitals during COVID-19. FP ratios (e.g., activity and leverage ratios) increased during either or both pre-COVID or COVID periods. Compared to before COVID-19, the operating margin ratio and operating expenses coverage from operating income increased from -0.50 and 66.55 to -1.42 and 41.32, respectively, during COVID-19. Moreover, the net profit margin ratio and Return On Assets (ROA) ratio were increased during COVID-19. Conclusion: COVID-19 has decreased the FP and SP of hospitals due to limitations in providing services to patients since the beginning of COVID-19. Measures such as providing various financing resources and improving the financial resilience of hospitals are essential. Funds should be disbursed to offset hospitals’ losses due to reduced elective and outpatient revenue. Policymakers should come up with holistic policies to tackle the adverse impact of such crises in the future, support hospitals financially, and consider allocating additional funding to them during emergencies. ",
+      "collected_date": "2025-10-17T11:32:44.648686"
+    },
+    {
+      "source": "PLOS",
+      "title": "COVID-19-related stigma among infected people in Sweden; psychometric properties and levels of stigma in two cohorts as measured by a COVID-19 stigma scale",
+      "authors": [
+        "Maria Reinius",
+        "Veronica Svedhem",
+        "Judith Bruchfeld",
+        "Heidi Holmström Larm",
+        "Malin Nygren-Bonnier",
+        "Lars E Eriksson"
+      ],
+      "publication_date": "2023-06-21T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0287341",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287341",
+      "article_type": "Research Article",
+      "abstract": "Background: Epidemics have historically been accompanied by stigma and discrimination. Disease-related stigma has often been shown to have severe consequences for physical, mental and social wellbeing and lead to barriers to diagnosis, treatment and prevention. The aims of this study were to investigate if a HIV-related stigma measure could be adapted and valid and reliable to measure COVID-19-related stigma, and also to investigate levels of self-reported stigma and related factors among people in Sweden with experience of COVID-19 and compare levels of COVID-19-related stigma versus HIV-related stigma among persons living with HIV who had experienced a COVID-19 event. Methods: Cognitive interviews (n = 11) and cross-sectional surveys were made after the acute phase of the illness using a new 12-item COVID-19 Stigma Scale and the established 12-item HIV Stigma Scale in two cohorts (people who had experienced COVID-19 (n = 166/209, 79%) and people living with HIV who had experienced a COVID-19 event (n = 50/91, 55%). Psychometric analysis of the COVID-19 Stigma Scale was performed by calculating floor and ceiling effects, Cronbach’s α and exploratory factor analysis. Levels of COVID-19 stigma between groups were analysed using the Mann-Whitney U test. Levels of COVID-19 and HIV stigma among people living with HIV with a COVID-19 event were compared using the Wilcoxon signed-rank test. Results: The COVID-19 cohort consisted of 88 (53%) men and 78 (47%) women, mean age 51 (19–80); 143 (87%) living in a higher and 22 (13%) in a lower income area. The HIV + COVID-19 cohort consisted of 34 (68%) men and 16 (32%) women, mean age 51 (26–79); 20 (40%) living in a higher and 30 (60%) in a lower income area. The cognitive interviews showed that the stigma items were easy to understand. Factor analysis suggested a four-factor solution accounting for 77% of the total variance. There were no cross loadings, but two items loaded on factors differing from the original scale. All subscales had acceptable internal consistency, showed high floor and no ceiling effects. There was no statistically significant difference between COVID-19 stigma scores between the two cohorts or between genders. People living in lower income areas reported more negative self-image and concerns about public attitudes related to COVID-19 than people in higher income areas (median score 3 vs 3 and 4 vs 3 on a scale from 3–12, Z = -1.980, p = 0.048 and Z = -2.023, p = 0.024, respectively). People from the HIV + COVID-19 cohort reported more HIV than COVID-19 stigma. Conclusions: The adapted 12-item COVID-19 Stigma Scale may be valid and reliable for measurement of COVID-19-related stigma. However, specific items may need to be rephrased or replaced to better correspond to the COVID-19 context. People who had experienced COVID-19 reported low levels of COVID-19-related stigma in general but people from lower income areas had higher levels of negative self-image and concerns about public attitudes related to COVID-19 than people from areas with higher income, which may call for targeted interventions. Although exhibiting more pronounced HIV stigma levels, people living with HIV who had experienced COVID-19 reported COVID-19-related stigma of the same low magnitude as their peers not living with HIV. ",
+      "collected_date": "2025-10-17T11:32:44.648686"
+    },
+    {
+      "source": "PLOS",
+      "title": "Dynamics of labor and capital in AI vs. non-AI industries: A two-industry model analysis",
+      "authors": [
+        "Xu Huang"
+      ],
+      "publication_date": "2024-01-24T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0295150",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295150",
+      "article_type": "Research Article",
+      "abstract": "\nThere is an imbalance in the development of artificial intelligence between industries. Compared to non-AI enterprise, AI- enterprise will save labor, enhance innovation capabilities, and improve production efficiency. By constructing a two-industry model of AI and non-AI enterprise, this paper finds that with the development of artificial intelligence in the same industry, the AI enterprise will occupy a dominant position, attracting labor and capital from the non-AI enterprise into the AI enterprise. In different industries, the development of artificial intelligence improves the production efficiency of the enterprise. However, due to the price effect, non-AI enterprise benefits more. Labor and capital flow from AI enterprise to non-AI enterprise. In order to promote the improvement of production efficiency in the whole society, the government can tax non-AI enterprise and subsidize them to AI enterprise. Taxation promotes the degree of automation and the improvement of production efficiency, but it has only a short-term effect on the development of AI. At the same time, taxation inhibits the development of non-AI enterprise, and there is a high risk of unemployment. When both industries use artificial intelligence for production, the labor share and the capital share of the two industries will tend to the same value. The convergence of technology measures is conducive to increasing labor income share and reducing income inequality, but it is not conducive to innovation.\n",
+      "collected_date": "2025-10-17T11:32:46.105318"
+    },
+    {
+      "source": "PLOS",
+      "title": "Beyond high hopes: A scoping review of the 2019–2021 scientific discourse on machine learning in medical imaging",
+      "authors": [
+        "Vasileios Nittas",
+        "Paola Daniore",
+        "Constantin Landers",
+        "Felix Gille",
+        "Julia Amann",
+        "Shannon Hubbs",
+        "Milo Alan Puhan",
+        "Effy Vayena",
+        "Alessandro Blasimme"
+      ],
+      "publication_date": "2023-01-31T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pdig.0000189",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pdig.0000189",
+      "article_type": "Research Article",
+      "abstract": "\nMachine learning has become a key driver of the digital health revolution. That comes with a fair share of high hopes and hype. We conducted a scoping review on machine learning in medical imaging, providing a comprehensive outlook of the field’s potential, limitations, and future directions. Most reported strengths and promises included: improved (a) analytic power, (b) efficiency (c) decision making, and (d) equity. Most reported challenges included: (a) structural barriers and imaging heterogeneity, (b) scarcity of well-annotated, representative and interconnected imaging datasets (c) validity and performance limitations, including bias and equity issues, and (d) the still missing clinical integration. The boundaries between strengths and challenges, with cross-cutting ethical and regulatory implications, remain blurred. The literature emphasizes explainability and trustworthiness, with a largely missing discussion about the specific technical and regulatory challenges surrounding these concepts. Future trends are expected to shift towards multi-source models, combining imaging with an array of other data, in a more open access, and explainable manner.\nAuthor summary: Machine learning is becoming an important part of digital health and medical imaging. Many believe that it is the solution to some of the challenges our medical systems currently face. In this study, we reviewed the literature to explore this topic, focusing on the promises, challenges, and future developments. The literature emphasises that machine learning allows us to use medical images in ways that are more reliable and precise, requiring less time and resources. That can lead to better decision-making, as well as allow for more people to access affordable image-based care. Some of the mentioned challenges include the large differences between images and imaging techniques, the difficulty in accessing enough high-quality images, the costs and infrastructure associated with that and the resulting geographic inequalities. In addition, the literature emphasizes that is difficult to understand how machine learning works, as well to assess how valid and reliable it is in analysing medical images. Equally difficult is its regulation and integration in everyday clinical work. The future is expected to bring machine learning models that will be able to analyse different types of images and other clinical data at once, in ways that are more transparent and understandable. ",
+      "collected_date": "2025-10-17T11:32:46.105318"
+    },
+    {
+      "source": "PLOS",
+      "title": "Influence of artificial intelligence in education on adolescents’ social adaptability: The mediatory role of social support",
+      "authors": [
+        "Tinghong Lai",
+        "Chuyin Xie",
+        "Minhua Ruan",
+        "Zheng Wang",
+        "Hong Lu",
+        "Shimin Fu"
+      ],
+      "publication_date": "2023-03-17T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0283170",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283170",
+      "article_type": "Research Article",
+      "abstract": "\nArtificial intelligence (AI) is widely used in the field of education at present, but people know little about its possible impacts, especially on the physical and mental development of the educated. It is important to explore the possible impacts of the application of artificial intelligence in education (AIEd) in order to avoid the possible adverse effects. Prior research has focused on theory to the exclusion of the psychological impact of AIEd, and the empirical research was relatively lacking. This study aimed to identify the influence of AIEd on adolescents’ social adaptability via social support. A total of 1332 students were recruited using random sampling from 13 Artificial Intelligence Curriculum Reform Experimental Schools in Guangzhou, Southern China, completed the survey. There were 342 primary school students (Meanage = 10.6), 351 junior high school students (Meanage = 13.1), and 639 senior high school students (Meanage = 15.8). Results showed that AIEd has a negative impact on adolescents’ social adaptability, and is significantly negatively correlated with social adaptability and family support, but there is no significant correlation with school support. AIEd could not only affect social adaptability directly, but also could affected it through the family support.\n",
+      "collected_date": "2025-10-17T11:32:46.105318"
+    },
+    {
+      "source": "PLOS",
+      "title": "Cytoplasmic and Genomic Effects on Non-Meiosis-Driven Genetic Changes in Brassica Hybrids and Allotetraploids from Pairwise Crosses of Three Cultivated Diploids",
+      "authors": [
+        "Cheng Cui",
+        "Xianhong Ge",
+        "Yingying Zhou",
+        "Maoteng Li",
+        "Zaiyun Li"
+      ],
+      "publication_date": "2013-05-31T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0065078",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065078",
+      "article_type": "Research Article",
+      "abstract": "\nNuclear-cytoplasmic interactions are predicted to be important in shaping the genetic changes in early stage of allopolyploidization. Our previous study shows the specific role of genome and cytoplasm affecting the chromosome pairing in Brassica hybrids and allotetraploids from pairwise crosses between three cultivated diploids with A, B and C genomes, respectively. Herein, to address how parental genomes and cytoplasm affects genomic, epigenetic and gene expression changes prior to meiosis in these hybrids and allopolyploids, their patterns of AFLP (Amplified fragment length polymorphism), mAFLP (Methylation AFLP) and cDNA-AFLP were compared with the progenitors, revealing the major absent bands within each genome. These changes varied under various cytoplasm backgrounds and genome combinations, following the significant order of AFLP> mAFLP> cDNA -AFLP. The frequencies of AFLP bands lost were positively correlated with the divergence degrees of parental genomes, but not obvious for those of mAFLP and cDNA-AFLP absent bands, and methylation change showed least variations among hybrids and within each genome. These changes within each genome followed the A>B>C hierarchy, except the highest rate of cDNA loss in B genome. Among three changes, only overall AFLP bands were significantly correlated with cDNA-AFLP, and their correlations varied within each genome. These changes in allotetraploids were mainly caused by genome merger rather than doubling. Parental genomes altered differently at three levels, responded to the types of cytoplasm and genome and their interaction or divergence. The result provides new clues for instant non-meiosis-driven genome restructuring following genome merger and duplication.\n",
+      "collected_date": "2025-10-17T11:32:47.370261"
+    },
+    {
+      "source": "PLOS",
+      "title": "Intrapopulation Genome Size Variation in D. melanogaster Reflects Life History Variation and Plasticity",
+      "authors": [
+        "Lisa L Ellis",
+        "Wen Huang",
+        "Andrew M Quinn",
+        "Astha Ahuja",
+        "Ben Alfrejd",
+        "Francisco E Gomez",
+        "Carl E Hjelmen",
+        "Kristi L Moore",
+        "Trudy F C Mackay",
+        "J Spencer Johnston",
+        "Aaron M Tarone"
+      ],
+      "publication_date": "2014-07-24T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pgen.1004522",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pgen.1004522",
+      "article_type": "Research Article",
+      "abstract": "\nWe determined female genome sizes using flow cytometry for 211 Drosophila melanogaster sequenced inbred strains from the Drosophila Genetic Reference Panel, and found significant conspecific and intrapopulation variation in genome size. We also compared several life history traits for 25 lines with large and 25 lines with small genomes in three thermal environments, and found that genome size as well as genome size by temperature interactions significantly correlated with survival to pupation and adulthood, time to pupation, female pupal mass, and female eclosion rates. Genome size accounted for up to 23% of the variation in developmental phenotypes, but the contribution of genome size to variation in life history traits was plastic and varied according to the thermal environment. Expression data implicate differences in metabolism that correspond to genome size variation. These results indicate that significant genome size variation exists within D. melanogaster and this variation may impact the evolutionary ecology of the species. Genome size variation accounts for a significant portion of life history variation in an environmentally dependent manner, suggesting that potential fitness effects associated with genome size variation also depend on environmental conditions.\nAuthor Summary: Genome size evolution is ubiquitous, and–even after decades of research–mysterious. There are two major classes of hypotheses regarding genome size evolution, those that attribute its causes to evolutionarily neutral processes and those that suggest a role for selection. Numerous correlations between genome size and fitness-related phenotypes have been documented, suggesting selection could play a role in genome size evolution. Unfortunately, many of the effects in those studies are confounded with factors that could provide alternative explanations. Here, we show that 211 inbred strains of Drosophila melanogaster exhibit abundant variation in genome size, which correlates with life history traits in a temperature-dependent manner. Gene expression analyses suggest a role for differences in metabolism between strains with large and small genomes. Thus, there is genetic variation in genome size within D. melanogaster, and this variation is connected to variation in environmentally dependent life history traits. These observations indicate that selection is indeed a potential mechanism by which genome size can evolve. Our results also suggest that higher levels of genetic architecture may explain some of the genetic contribution to biologically important complex traits and raise the possibility that nucleotide quantity can contribute to phenotype in addition to quality. ",
+      "collected_date": "2025-10-17T11:32:47.370261"
+    },
+    {
+      "source": "PLOS",
+      "title": "Two Low Coverage Bird Genomes and a Comparison of Reference-Guided versus De Novo Genome Assemblies",
+      "authors": [
+        "Daren C Card",
+        "Drew R Schield",
+        "Jacobo Reyes-Velasco",
+        "Matthew K Fujita",
+        "Audra L Andrew",
+        "Sara J Oyler-McCance",
+        "Jennifer A Fike",
+        "Diana F Tomback",
+        "Robert P Ruggiero",
+        "Todd A Castoe"
+      ],
+      "publication_date": "2014-09-05T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0106649",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106649",
+      "article_type": "Research Article",
+      "abstract": "\nAs a greater number and diversity of high-quality vertebrate reference genomes become available, it is increasingly feasible to use these references to guide new draft assemblies for related species. Reference-guided assembly approaches may substantially increase the contiguity and completeness of a new genome using only low levels of genome coverage that might otherwise be insufficient for de novo genome assembly. We used low-coverage (∼3.5–5.5x) Illumina paired-end sequencing to assemble draft genomes of two bird species (the Gunnison Sage-Grouse, Centrocercus minimus, and the Clark's Nutcracker, Nucifraga columbiana). We used these data to estimate de novo genome assemblies and reference-guided assemblies, and compared the information content and completeness of these assemblies by comparing CEGMA gene set representation, repeat element content, simple sequence repeat content, and GC isochore structure among assemblies. Our results demonstrate that even lower-coverage genome sequencing projects are capable of producing informative and useful genomic resources, particularly through the use of reference-guided assemblies.\n",
+      "collected_date": "2025-10-17T11:32:47.370261"
+    },
+    {
+      "source": "PLOS",
+      "title": "Taking an educational psychology course improves neuroscience literacy but does not reduce belief in neuromyths",
+      "authors": [
+        "Soo-hyun Im",
+        "Joo-Yun Cho",
+        "Janet M Dubinsky",
+        "Sashank Varma"
+      ],
+      "publication_date": "2018-02-05T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0192163",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192163",
+      "article_type": "Research Article",
+      "abstract": "\nEducators are increasingly interested in applying neuroscience findings to improve educational practice. However, their understanding of the brain often lags behind their enthusiasm for the brain. We propose that educational psychology can serve as a bridge between basic research in neuroscience and psychology on one hand and educational practice on the other. We evaluated whether taking an educational psychology course is associated with increased neuroscience literacy and reduced belief in neuromyths in a sample of South Korean pre-service teachers. The results showed that taking an educational psychology course was associated with the increased neuroscience literacy, but there was no impact on belief in neuromyths. We consider the implications of these and other findings of the study for redesigning educational psychology courses and textbooks for improving neuroscience literacy.\n",
+      "collected_date": "2025-10-17T11:32:48.699875"
+    },
+    {
+      "source": "PLOS",
+      "title": "Think: Theory for Africa",
+      "authors": [
+        "Christopher B Currin",
+        "Phumlani N Khoza",
+        "Alexander D Antrobus",
+        "Peter E Latham",
+        "Tim P Vogels",
+        "Joseph V Raimondo"
+      ],
+      "publication_date": "2019-07-11T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1007049",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pcbi.1007049",
+      "article_type": "Perspective",
+      "abstract": "",
+      "collected_date": "2025-10-17T11:32:48.699875"
+    },
+    {
+      "source": "PLOS",
+      "title": "The background and experience of neuroscience teachers in Australian universities: A cross-sectional survey",
+      "authors": [
+        "Gabrielle Todd",
+        "Fabian Kreilaus",
+        "Amy S Lonergan",
+        "Melissa S Cameron",
+        "Kay L Double"
+      ],
+      "publication_date": "2024-10-02T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0311252",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311252",
+      "article_type": "Research Article",
+      "abstract": "\nNeuroscience is an academic discipline taught within a broad range of university degrees and programs. The expertise and experience of neuroscience teaching staff contribute to the student’s learning experience and knowledge acquisition. We undertook a survey to characterize the neuroscience teaching workforce and practices in Australian universities, and to investigate access to and deficiencies in neuroscience teaching resources and training. Two hundred neuroscience teaching staff completed our anonymous online survey. The responses indicated that neuroscience is primarily being delivered by highly qualified (86% with doctoral degrees, 27% with formal qualifications in tertiary teaching), research-active (45% were recently primary supervisors of research students) teaching academics with secure employment (77% in full-time continuing positions). There were more females (61.5%) than males (38.5%) in the sample and most respondents taught neuroscience to students enrolled in a range of degrees/programs. Most survey respondents could access an anatomy laboratory for teaching (87%) but access to specialised online resources, such as augmented reality presentations, customised game-based learning approaches, and/or online brain atlases, was limited. Most survey respondents reported they would benefit from increased access to neuroscience teaching resources and/or peer-tested teaching materials (80%), an informal network of Australian neuroscience teaching peers (64%), and/or training workshops on neuroscience teaching (59%). Approximately half of survey respondents supported the creation of national guidelines for neuroscience teaching curricula. The survey results identify specific gaps in teacher training and resources and inform the development of strategies to support tertiary teachers of neuroscience and student learning.\n",
+      "collected_date": "2025-10-17T11:32:48.699875"
+    },
+    {
+      "source": "PLOS",
+      "title": "Analysis of the spatio-temporal coupling coordination mechanism supporting economic resilience and high-quality economic development in the urban agglomeration in the middle reaches of the Yangtze River",
+      "authors": [
+        "Shenglan Ma",
+        "Junlin Huang"
+      ],
+      "publication_date": "2023-02-24T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0281643",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281643",
+      "article_type": "Research Article",
+      "abstract": "\nThe coupling coordination mechanism between economic resilience and high-quality economic development is clarified not only to improve the capacity of economies to withstand external shocks but also to boost the level of sustainable economic development. However, economic resilience and economic quality research are still in their infancy. This study constructs an economic resilience indicator system based on the data of 28 prefecture-level cities in the urban agglomeration in the middle reaches of the Yangtze River (UAMRYR) from 2010–2019. The entropy approach was then coupled with the coupling coordination model to determine the level of coupling coordination between the two. Finally, the geographical detector was employed to reveal the coupling coordination process and driving elements. This study demonstrates that: (1) The economic resilience and high-quality economic development of the UAMRYR are on the rise; (2) The coupling coordination degree between economic resilience and high-quality economic development is improving, with the average value increasing from 0.33 in 2010 to 0.46 in 2019, exhibiting a Core-Periphery spatial distribution pattern with Wuhan, Changsha, and Nanchang as the core; (3) The economic resilience resistance subsystem plays a substantial role in the driving influence of the coupling coordination degree, where the total retail sales of consumer goods indicator have an explanatory power of 0.8 or higher for coupled coordination. Innovation and inclusiveness thoroughly drive the coupling coordination degree among the five subsystems of high-quality economic development, where the q-value of the number of urban basic endowment insurance participants index is at least 0.9. Additionally, the interplay of the components demonstrates a complementary enhancement impact and a two-factor enhancement effect; (4) Economic resilience and high-quality economic development are complementary and provide a powerful incentive for the sustainable development of urban economic systems to achieve higher quality, more efficient, more egalitarian, and more sustainable economic development. Overall, this study improves the analysis of mechanism between economic resilience and high-quality economic development, and it provides more targeted guidance for economic development in the UARMRYR.\n",
+      "collected_date": "2025-10-17T11:32:49.960530"
+    },
+    {
+      "source": "PLOS",
+      "title": "China’s economic development quality grows faster than economic quantity",
+      "authors": [
+        "Guangyue Xu",
+        "Haoyun Dong",
+        "Xiaojiang Shi"
+      ],
+      "publication_date": "2023-07-28T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0289399",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289399",
+      "article_type": "Research Article",
+      "abstract": "\nIt is known that the rapid progress of the Chinese economy is perceived to be aligned more towards increasing the economic quantity (GDP) rather than its quality primarily owing to a large amount of carbon emission, increased environmental pollution, and high resource consumption. However, such perception comes with no single evidence or study that compares growth rates between the quantity and quality of China’s economic development. Such a comparative study could provide useful information to the Chinese government and concerned agencies to manage and promote sustainable economic development in China. Here we developed a comprehensive economic development quality evaluation indicator system to study China’s progress on economic quality from 1978 to 2017 and compare it with GDP growth rates over the same period. Results indicate that during the period 1978–2017, China’s economic development quality index has increased significantly, higher than the average annual growth rate of GDP during the same period. This higher growth rate of Chinese economic development quality could be attributed to the country’s achievements in tackling environmental pollution, narrowing the income gap, promoting technological progress and innovation, improving economic efficiency, maintaining social stability, and improving social welfare. We suggest the world re-evaluate China’s economic development achievement and growth patterns that can provide a reference for other developing countries.\n",
+      "collected_date": "2025-10-17T11:32:49.960530"
+    },
+    {
+      "source": "PLOS",
+      "title": "Evolution characteristics of temporal and spatial pattern of Russian economic differences since the 21st century",
+      "authors": [
+        "Nan-Chen Chu",
+        "Ping-Yu Zhang",
+        "Xiang-Li Wu"
+      ],
+      "publication_date": "2022-03-31T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0263237",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263237",
+      "article_type": "Research Article",
+      "abstract": "\nUnder the background of \"the Belt and Road\" and \"the economic corridor of China, Mongolia and Russia\" initiatives, it is of great significance to study the temporal and spatial economic pattern in the Russian Federation. Based on the economic development difference index, regional economic grade index, global trend analysis tool and spatial autocorrelation model, this paper analyzes the temporal and spatial pattern evolution characteristics of Russian economic differences from 2002 to 2020. The results are as following. First, although the economic imbalance among various federal subjects has been decreasing, the economic polarization has been still severe between the prosperous developed regions and the stagnant backward regions during 2002–2020. Russia’s economy shows a trend of changing from significant positive correlation in strong agglomeration space to positive correlation in weak agglomeration space, and then to random distribution. Second, there has been great differences of the economic development among various federal subjects. The economic grade of the Russian federal subjects presents a significant spatial differentiation pattern. The Russian Federation’s economic resources are concentrated in the first-class federal subject (Moscow City), second-class federal subjects (Tumen Region, Moscow Region and Saint-Petersburg city) and a few third-class federal subjects (Yamalo-Nenetsky Autonomous Area, Khanty-Mansiysky Autonomous Area, Republic of Tatarstan, Krasnodar Territory, Sverdlovsk Region, etc). Third, the Russian Federation’s economy presents \"High Core, Low Periphery\", \"High West, Low East\" and \"High south, Low north\" spatial differentiation pattern. The economic hot regions coincide with the high-class economic regions, which are mainly distributed in the contiguous areas of Ural Federal District and Volga Federal District, as well as the Moscow City, Moscow Region, Saint-Petersburg city, Krasnodar Territory and Rostov Region. The economic cold regions coincide with the low-class economic regions, which are mainly located in the Far East Federal District, the east of Siberian Federal District, the north of North West Federal District and the south of North-Caucasian Federal District. Finally, we suggest the recommendation for policy makers in Russia. And we propose the future research ideas.\n",
+      "collected_date": "2025-10-17T11:32:49.960530"
+    },
+    {
+      "source": "PLOS",
+      "title": "A comprehensive scan of psychological disciplines through self-identification on Google Scholar: Relative endorsement, topical coverage, and publication patterns",
+      "authors": [
+        "Jaap J A Denissen",
+        "John F Rauthmann"
+      ],
+      "publication_date": "2024-01-02T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0296421",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296421",
+      "article_type": "Research Article",
+      "abstract": "\nPsychological researchers often identify with psychological disciplines, such as social or clinical psychology. The current study analyzed Google Scholar profiles from 6,532 international scientists who attracted more than 100 citations in 2019 and self-identified with at least one of 10 common psychological disciplines (psychoanalysis; clinical psychology; (cognitive) neuroscience; developmental psychology; educational psychology; experimental psychology; biological psychology/psychophysiology; mathematical psychology/psychometrics; social psychology; personality psychology). Results indicated that almost half of all psychologists self-identified with either social psychology or cognitive neuroscience. There were 487 topics that were endorsed at least five times, ranging from highly discipline-specific topics to more integrative ones, such as emotion and personality. We also factor-analyzed frequencies of topical endorsement across disciplines and found two factors, which we interpreted as reflecting correlational and experimental research traditions (with social psychology being the largest discipline within the former tradition and cognitive neuroscience being the largest discipline within the latter tradition). Differences in productivity and impact were also found, with researchers identifying with psychometrics being the most productive and researchers identifying with personality psychology, cognitive neuroscience, and multidisciplinary psychology as the most impactful in terms of citation increases per additional output. Recommendations for promoting cross-fertilization across psychological disciplines are formulated.\n",
+      "collected_date": "2025-10-17T11:32:51.297066"
+    },
+    {
+      "source": "PLOS",
+      "title": "Why men are the minority: The perceptions of young men in UK post-primary education about studying psychology at university",
+      "authors": [
+        "Elida Cena",
+        "Stephanie Burns",
+        "Ruth Lee",
+        "Kathryn Gillespie",
+        "Patrick A O’Connor",
+        "Tara Anderson",
+        "Grace Duffy",
+        "Lisa Graham-Wisener"
+      ],
+      "publication_date": "2025-05-08T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0322541",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322541",
+      "article_type": "Research Article",
+      "abstract": "\nPsychology is categorised as a science by most higher education authorities internationally. As with many science, mathematics and engineering fields, women are underrepresented in psychology at senior levels (the ‘leaky pipeline’). However, it is men who are underrepresented within the discipline overall, meaning that the psychology workforce does not reflect the population it aims to serve. It is important to understand why fewer men are opting to enter the profession, beginning with their choices regarding higher education. The current study is one of the first to qualitatively examine the perceptions and motivations of adolescent and young adult men in post-primary education of the study of psychology at university undergraduate level. Twelve focus groups were conducted with young men (n = 64) studying AS or A2-Levels, between 16 and 18 years of age, in post-primary schools in a UK region, Northern Ireland (NI). Thematic analysis demonstrated that psychology was viewed in a gendered way as a ‘feminine’, ‘soft’ subject dealing with emotions, and was not perceived as an ‘objective’, ‘fact-based’ science. The lack of male role models in psychology was a barrier to young men pursuing psychology at university level. Young men, whether currently studying psychology at school or not, expressed gendered career expectations and motivations. There are opportunities for targeted efforts with young men to promote psychology as a science and a multi-faceted discipline. Findings will inform the efforts of those in post-primary and higher education level in making psychology inclusive in terms of gender and improving the diversity of psychology as a field.\n",
+      "collected_date": "2025-10-17T11:32:51.297066"
+    },
+    {
+      "source": "PLOS",
+      "title": "How childhood psychological abuse affects adolescent cyberbullying: The chain mediating role of self-efficacy and psychological resilience",
+      "authors": [
+        "Haihua Ying",
+        "Yang Han"
+      ],
+      "publication_date": "2024-09-09T00:00:00Z",
+      "doi": "https://doi.org/10.1371/journal.pone.0309959",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309959",
+      "article_type": "Research Article",
+      "abstract": "Background: Despite the recognition of the impact of childhood psychological abuse, self-efficacy, and psychological resilience on cyberbullying, there is still a gap in understanding the specific mechanisms through which childhood psychological abuse impacts cyberbullying via self-efficacy and psychological resilience. Methods: Based on the Social Cognitive Theory, this study aims to investigate the link between childhood psychological abuse and cyberbullying in adolescents, mediated by the sequential roles of self-efficacy and psychological resilience. The sample consisted of 891 students (M = 15.40, SD = 1.698) selected from four public secondary schools in Jiangsu Province, Eastern China. All the participants filled in the structured self-report questionnaires on childhood psychological abuse, self-efficacy, psychological resilience, and cyberbullying. The data were analyzed using SPSS 24.0 and structural equation modeling (SEM) in AMOS 24.0. Results: The findings of this study are as follows: (1) Childhood psychological abuse is positively associated with adolescent cyberbullying; (2) Self-efficacy plays a mediating role between childhood psychological abuse and adolescent cyberbullying; (3) Psychological resilience plays a mediating role between childhood psychological abuse and adolescent cyberbullying; (4) Self-efficacy and psychological resilience play a chain mediation role between childhood psychological abuse and adolescent cyberbullying. Conclusion: This study contributes to a deeper understanding of the underlying mechanisms linking childhood psychological abuse to adolescent cyberbullying, shedding light on potential pathways for targeted interventions and support programs to promote the well-being of adolescents in the face of early adversity. ",
+      "collected_date": "2025-10-17T11:32:51.297066"
+    }
+  ]
+}
