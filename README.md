@@ -6,6 +6,18 @@
 
 > A rigorous, AI-powered methodology for conducting comprehensive reference and citation audits in academic manuscripts using Agentic AI with tool access.
 
+## ⚠️ Important Disclaimer
+
+**This repository contains methodology validation data, NOT evaluations of specific papers or authors.**
+
+The validation dataset includes AI-generated audit reports on 24 open-access academic papers. These reports:
+- Are **methodology demonstrations** showing the AI tool's capabilities
+- Were generated to **validate the auditing technique**, not to assess the papers themselves
+- Involved only **sample-based human verification** by researchers
+- May contain errors (false positives/negatives) inherent to AI systems
+
+**We make NO claims about the quality of any specific paper or author's work.** See [`DISCLAIMER.md`](DISCLAIMER.md) for full legal and ethical disclaimers.
+
 ## Overview
 
 This repository contains a **zero-assumption protocol** for systematic citation verification in academic work, developed as part of research on AI agents in scholarly quality assurance. The methodology employs Agentic Generative AI with access to academic search tools to detect fabricated references, citation errors, orphan references, and content misrepresentation.
@@ -22,23 +34,35 @@ This repository contains a **zero-assumption protocol** for systematic citation 
 
 **Project Status:**
 - **Software Version**: v1.0.0 (stable, functional, tested)
-- **Conference Submission**: Submitted to an academic conference on AI agents for science (acceptance pending)
-- **Empirical Validation**: Completed on 6 documents, 1,369 references
+- **Conference Submission**: Prepared for Agents4Science 2025 conference
+- **Empirical Validation**: Completed on 30 documents, 2,581 references across two validation phases
 - **Replication**: Full methodology documented and open source
 - **Future Work**: Extended validation, Zenodo DOI, potential journal submission
 
-This methodology was developed for academic conference submission and has been empirically tested across diverse academic contexts:
+This methodology was developed for academic conference submission and has been empirically tested across diverse academic contexts in two phases:
 
+**Phase 1 - Initial Validation (6 documents):**
 - **1 Honours project** (19 references)
 - **3 Masters dissertations** (65-196 references)
 - **1 Conference paper** (46 references)
 - **1 Doctoral thesis** (916 references)
 
-**Empirical Results:**
-- **Best case**: 0.5% issues detected (5 formatting errors in 916 references)
+**Phase 2 - Extended Validation (24 documents):**
+- **24 PLOS open-access papers** spanning 5 disciplines:
+  - Machine Learning & AI (5 papers)
+  - Psychology & Education (7 papers)
+  - Economics & Social Science (4 papers)
+  - Biology & Genetics (5 papers)
+  - Climate Science & Public Health (3 papers)
+- **1,212 references** extracted and verified
+- **Multi-disciplinary representation** ensuring methodology robustness
+
+**Combined Empirical Results:**
+- **Best case**: 100% verification rate (excellent citation practices)
 - **Worst case**: 83% of references rejected (orphan references, fabricated sources)
-- **Average verification rate**: 76.8% across all documents
-- **Critical issues detected**: 18 unverifiable references, 48 orphan citations, 225 orphan references
+- **Phase 1 average**: 76.8% verification rate
+- **Phase 2 average**: 91.7% verification rate
+- **Critical issues detected**: Fabricated references, retracted articles, predatory journals, citation-reference mismatches
 
 ## Quick Start
 
@@ -135,25 +159,41 @@ See [`examples/`](examples/) for sample audit reports.
 ```
 ai-citation-auditor/
 ├── README.md                          # This file
+├── DISCLAIMER.md                      # Legal and ethical disclaimers
 ├── METHODOLOGY.md                     # Detailed methodology and replication guide
+├── VALIDATION_STATUS.md               # Validation dataset progress tracking
 ├── CITATION.md                        # How to cite this work
 ├── LICENSE                            # MIT License
 ├── protocol/
 │   ├── CLAUDE.md                      # Core zero-assumption protocol
 │   └── extract_docx.py               # Python script for .docx text extraction
-├── audit-reports/                     # Example audit reports
+├── audit-reports/                     # Phase 1 audit reports (6 documents)
 │   ├── MASTER_AUDIT_SUMMARY.md       # Overview of 6-document batch
-│   ├── Example_Excellent_Quality.md  # Best case example (916 refs)
-│   ├── Example_Critical_Issues.md    # Worst case example (83% rejection)
-│   └── Example_High_Quality.md       # Minor corrections example
+│   └── [Individual audit reports]    # Initial validation audits
+├── validation_audits/                 # Phase 1 raw validation data
+│   └── [Student project audits]      # Honours, Masters, Doctoral audits
+├── analysis/                          # Validation dataset (Phase 2)
+│   ├── audit_reports/                # 24 PLOS paper audits
+│   ├── extracted_references/         # Extracted reference data (24 files)
+│   ├── audit_inputs/                 # Prepared audit input files
+│   ├── COMPREHENSIVE_VALIDATION_REPORT.md  # Complete validation analysis
+│   ├── aggregate_statistics.md       # Statistical summary
+│   ├── aggregate_statistics.json     # JSON export of metrics
+│   ├── collect_papers.py             # Paper collection script
+│   ├── download_papers.py            # PDF download script
+│   ├── extract_references.py         # Reference extraction script
+│   ├── prepare_audit_inputs.py       # Audit input preparation
+│   ├── run_all_audits.py             # Batch processing plan
+│   └── statistics.py                 # Aggregate statistics calculator
+├── datasets/
+│   ├── validation_dataset.json       # Dataset metadata (24 papers)
+│   └── README.md                     # Dataset documentation
 ├── examples/                          # Sample data and demonstrations
 │   └── sample_references.md          # Example reference formats
-├── docs/                              # Additional documentation
-│   ├── TROUBLESHOOTING.md            # Common issues and solutions
-│   ├── INTERPRETING_RESULTS.md       # How to read audit reports
-│   └── BEST_PRACTICES.md             # Recommendations for supervisors
-└── analysis/                          # Supporting analysis scripts
-    └── statistics.py                 # Aggregate statistics from audits
+└── docs/                              # Additional documentation
+    ├── TROUBLESHOOTING.md            # Common issues and solutions
+    ├── INTERPRETING_RESULTS.md       # How to read audit reports
+    └── BEST_PRACTICES.md             # Recommendations for supervisors
 ```
 
 ## Key Findings

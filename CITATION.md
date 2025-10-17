@@ -147,16 +147,16 @@ Janse van Rensburg, LJ. (2025). Zero-assumption protocol for AI-powered citation
 
 ---
 
-## Dataset Citation (If Using Audit Reports)
+## Dataset Citation (If Using Audit Reports or Validation Data)
 
-If you use the example audit reports for analysis:
+### Phase 1 Validation Dataset (Initial Testing)
 
-### BibTeX
+If you use the initial validation audit reports:
 
 ```bibtex
-@dataset{citation_audit_corpus_2025,
+@dataset{citation_audit_corpus_phase1_2025,
   author       = {Janse van Rensburg, LJ},
-  title        = {{AI-Powered Citation Audit Corpus: Six Academic Documents
+  title        = {{AI-Powered Citation Audit Corpus - Phase 1: Six Academic Documents
                    with Comprehensive Reference Verification}},
   year         = 2025,
   publisher    = {GitHub},
@@ -168,13 +168,53 @@ If you use the example audit reports for analysis:
 }
 ```
 
+### Phase 2 Validation Dataset (Extended Multi-Disciplinary)
+
+If you use the extended validation dataset with PLOS papers:
+
+```bibtex
+@dataset{citation_audit_validation_phase2_2025,
+  author       = {Janse van Rensburg, LJ},
+  title        = {{AI-Powered Citation Auditor Validation Dataset: 24 Open-Access
+                   Papers with Multi-Disciplinary Reference Verification}},
+  year         = 2025,
+  publisher    = {GitHub},
+  version      = {1.0.0},
+  url          = {https://github.com/leonjvr/ai-citation-auditor/tree/main/analysis},
+  note         = {N=24 PLOS papers, 1,212 references across 5 disciplines.
+                  Includes: Machine Learning/AI, Psychology, Economics,
+                  Biology, Climate Science. Papers excluded (open-access DOIs provided).
+                  See DISCLAIMER.md for ethical considerations.}
+}
+```
+
+### Combined Dataset Citation
+
+If citing the complete validation effort:
+
+```bibtex
+@dataset{citation_audit_complete_2025,
+  author       = {Janse van Rensburg, LJ},
+  title        = {{AI-Powered Citation Auditor: Complete Validation Corpus}},
+  year         = 2025,
+  publisher    = {GitHub},
+  version      = {1.0.0},
+  url          = {https://github.com/leonjvr/ai-citation-auditor},
+  note         = {N=30 documents, 2,581 references.
+                  Phase 1: 6 student/academic documents.
+                  Phase 2: 24 multi-disciplinary PLOS papers.
+                  Methodology validation for Agents4Science 2025 conference.}
+}
+```
+
 ### APA 7th Edition
 
 ```
-Janse van Rensburg, LJ. (2025). AI-powered citation audit corpus: Six academic documents
-    with comprehensive reference verification [Data set]. GitHub.
-    https://github.com/leonjvr/ai-citation-auditor/tree/main/audit-reports
+Janse van Rensburg, LJ. (2025). AI-powered citation auditor: Complete validation corpus
+    [Data set]. GitHub. https://github.com/leonjvr/ai-citation-auditor
 ```
+
+**Important**: When using the Phase 2 validation dataset, cite [`DISCLAIMER.md`](DISCLAIMER.md) and note that audit reports are methodology demonstrations, not evaluations of papers/authors.
 
 ---
 
