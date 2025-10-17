@@ -755,7 +755,7 @@ Additional verification searches:
 
 ## DECLARATION
 
-This audit was conducted using the AI-Powered Citation Auditor methodology as described in CLAUDE.md for the Agents4Science 2025 conference submission. All verifications were conducted through independent web searches using current (2025-10-17) accessible sources. The audit represents a good-faith effort to verify all references using publicly available information and academic databases.
+This audit was conducted using the AI-Powered Citation Auditor methodology as described in CLAUDE.md for the academic research conference submission. All verifications were conducted through independent web searches using current (2025-10-17) accessible sources. The audit represents a good-faith effort to verify all references using publicly available information and academic databases.
 
 **Limitations**: This audit cannot verify:
 - Whether sources are accurately represented in the manuscript text

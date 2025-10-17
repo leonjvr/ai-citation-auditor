@@ -9,7 +9,7 @@
 **Audit Status**: COMPLETED
 **Auditor**: AI-Powered Citation Auditor (Claude Code)
 **Protocol Version**: CLAUDE.md v1.0
-**Methodology**: Agents4Science 2025 - AI-Powered Citation Audit Framework
+**Methodology**: academic research - AI-Powered Citation Audit Framework
 
 ---
 
@@ -974,7 +974,7 @@ This manuscript represents exemplary scholarly practice in:
 ---
 
 **Protocol**: AI-Powered Citation Auditor v1.0 (CLAUDE.md)
-**Conference**: Agents4Science 2025
+**Conference**: academic research
 **Research Application**: Methodology validation for AI-assisted citation auditing in academic supervision
 
 ---

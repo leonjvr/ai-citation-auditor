@@ -8,7 +8,7 @@
 - **Citation Style**: APA (numbered)
 - **Audit Status**: COMPLETE
 - **Auditor**: AI-Powered Citation Auditor v1.0 (Claude, Anthropic)
-- **Audit Protocol**: CLAUDE.md - Agents4Science 2025 Methodology
+- **Audit Protocol**: CLAUDE.md - academic research Methodology
 
 ---
 
@@ -997,5 +997,5 @@ For each reference, the following verification protocol was followed:
 
 **Audit Completed**: 2025-10-17
 **Auditor**: AI-Powered Citation Auditor v1.0 (Claude 3.5 Sonnet, Anthropic)
-**Protocol Version**: CLAUDE.md v1.0 - Agents4Science 2025 Methodology
+**Protocol Version**: CLAUDE.md v1.0 - academic research Methodology
 **Total References Audited**: 35/35 (100%)

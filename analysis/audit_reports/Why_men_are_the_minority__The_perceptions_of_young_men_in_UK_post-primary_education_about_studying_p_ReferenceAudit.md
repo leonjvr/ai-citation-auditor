@@ -859,4 +859,4 @@ This audit was conducted with:
 
 ---
 
-*This audit was conducted using the AI-Powered Citation Auditor methodology as specified in CLAUDE.md v1.0 for the Agents4Science 2025 conference submission. All verifications were performed using independent web searches and academic database queries to ensure accuracy and reliability.*
+*This audit was conducted using the AI-Powered Citation Auditor methodology as specified in CLAUDE.md v1.0 for the academic research conference submission. All verifications were performed using independent web searches and academic database queries to ensure accuracy and reliability.*

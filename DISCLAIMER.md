@@ -6,7 +6,7 @@
 
 ### Purpose of This Research
 
-This project validates an **AI-powered citation auditing methodology** for the Agents4Science 2025 conference. The audit reports were generated:
+This project validates an **AI-powered citation auditing methodology** for academic research. The audit reports were generated:
 
 1. **To test the AI methodology's capabilities** - not to evaluate specific papers
 2. **As validation dataset examples** - demonstrating the audit tool's performance
@@ -52,7 +52,7 @@ If citing this research or methodology:
 
 ```
 Janse van Rensburg, L.J. (2025). AI-Powered Citation Auditor:
-Methodology Validation Dataset. Agents4Science 2025 Conference.
+Methodology Validation Dataset. GitHub Repository.
 https://github.com/leonjvr/ai-citation-auditor
 ```
 
@@ -72,7 +72,7 @@ For questions, concerns, or requests regarding this research:
 
 **Principal Researcher**: LJ Janse van Rensburg
 **Institution**: University of Johannesburg
-**Purpose**: Methodology validation for Agents4Science 2025 conference submission
+**Purpose**: Methodology validation for academic research
 
 ### Acknowledgments
 

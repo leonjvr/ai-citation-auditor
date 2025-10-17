@@ -203,7 +203,7 @@ If citing the complete validation effort:
   note         = {N=30 documents, 2,581 references.
                   Phase 1: 6 student/academic documents.
                   Phase 2: 24 multi-disciplinary PLOS papers.
-                  Methodology validation for Agents4Science 2025 conference.}
+                  Methodology validation dataset.}
 }
 ```
 

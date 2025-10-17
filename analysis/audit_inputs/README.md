@@ -63,7 +63,7 @@ When running audits, track:
 1. Run audits on all 24 papers
 2. Collect audit reports in `../audit_reports/` directory
 3. Run `statistics.py` to generate aggregate statistics
-4. Analyze results for Agents4Science 2025 paper
+4. Analyze results for academic research paper
 
 ---
 

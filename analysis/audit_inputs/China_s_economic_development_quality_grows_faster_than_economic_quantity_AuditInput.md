@@ -192,4 +192,4 @@ Document explicitly when verification is impossible and state the specific reaso
 ---
 
 **Protocol Version**: CLAUDE.md v1.0 (2025-10-17)
-**Methodology**: AI-Powered Citation Auditor for Agents4Science 2025
+**Methodology**: AI-Powered Citation Auditor for academic research

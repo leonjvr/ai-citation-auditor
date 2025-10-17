@@ -34,7 +34,7 @@ This repository contains a **zero-assumption protocol** for systematic citation 
 
 **Project Status:**
 - **Software Version**: v1.0.0 (stable, functional, tested)
-- **Conference Submission**: Prepared for Agents4Science 2025 conference
+- **Conference Submission**: Prepared for academic conference submission
 - **Empirical Validation**: Completed on 30 documents, 2,581 references across two validation phases
 - **Replication**: Full methodology documented and open source
 - **Future Work**: Extended validation, Zenodo DOI, potential journal submission

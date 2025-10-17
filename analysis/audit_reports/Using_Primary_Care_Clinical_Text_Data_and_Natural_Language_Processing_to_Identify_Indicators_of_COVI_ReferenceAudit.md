@@ -839,7 +839,7 @@ All 20 references were independently verified through web searches. Evidence tra
 |-----------|-------|
 | **Audit Date** | 2025-10-17 |
 | **Auditor** | Claude (Anthropic Claude Sonnet 4.5) |
-| **Audit Protocol** | CLAUDE.md v1.0 - AI-Powered Citation Auditor for Agents4Science 2025 |
+| **Audit Protocol** | CLAUDE.md v1.0 - AI-Powered Citation Auditor for academic research |
 | **Methodology** | Agentic AI with web search tool access |
 | **Total References Audited** | 20 of 20 (100%) |
 | **Verification Success Rate** | 100% |
@@ -871,4 +871,4 @@ This reference list represents **exemplary scholarly practice** and serves as a 
 
 **END OF AUDIT REPORT**
 
-*This audit was conducted using AI-powered methodology with web search verification as described in the Agents4Science 2025 submission on AI-Powered Citation Auditing. All verifications are based on independent web searches performed on 2025-10-17.*
+*This audit was conducted using AI-powered methodology with web search verification as described in the academic research submission on AI-Powered Citation Auditing. All verifications are based on independent web searches performed on 2025-10-17.*

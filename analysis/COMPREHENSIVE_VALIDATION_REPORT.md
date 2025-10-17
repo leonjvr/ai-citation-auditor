@@ -1,5 +1,5 @@
 # Comprehensive Validation Report: AI-Powered Citation Auditor
-## Agents4Science 2025 Conference Submission
+## Methodology Validation Study
 
 **Report Date**: 2025-10-17
 **Validation Dataset**: 24 open-access research papers from PLOS
@@ -567,7 +567,7 @@ While **not a replacement for human expert judgment**, the AI-Powered Citation A
 **Report Prepared By**: AI-Powered Citation Auditor Validation Team
 **Date**: 2025-10-17
 **Version**: 1.0
-**Next Steps**: Publication at Agents4Science 2025 Conference
+**Next Steps**: Prepare for academic publication
 
 ---
 

@@ -228,7 +228,7 @@ Document explicitly when verification is impossible and state the specific reaso
 ---
 
 **Protocol Version**: CLAUDE.md v1.0 (2025-10-17)
-**Methodology**: AI-Powered Citation Auditor for Agents4Science 2025
+**Methodology**: AI-Powered Citation Auditor for academic research
 """
 
         return prompt
@@ -292,7 +292,7 @@ Document explicitly when verification is impossible and state the specific reaso
                 'total_references': stats['total_references'],
                 'audit_protocol': 'CLAUDE.md v1.0',
                 'methodology': 'AI-Powered Citation Auditor',
-                'purpose': 'Validation for Agents4Science 2025 conference paper'
+                'purpose': 'Validation for academic research conference paper'
             },
             'papers': stats['papers']
         }
@@ -371,7 +371,7 @@ When running audits, track:
 1. Run audits on all 24 papers
 2. Collect audit reports in `../audit_reports/` directory
 3. Run `statistics.py` to generate aggregate statistics
-4. Analyze results for Agents4Science 2025 paper
+4. Analyze results for academic research paper
 
 ---
 

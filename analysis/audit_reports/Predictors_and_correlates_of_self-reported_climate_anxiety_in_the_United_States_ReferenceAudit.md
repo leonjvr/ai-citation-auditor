@@ -793,4 +793,4 @@ This citation audit reveals a **reference list of exceptional quality** with min
 
 ---
 
-*This audit report demonstrates the AI-Powered Citation Auditor methodology for the Agents4Science 2025 submission. The methodology successfully verified 98.4% of references with high confidence, detecting 3 minor errors requiring correction and identifying 1 duplicate reference. Total audit time: ~3 hours for 63 references.*
+*This audit report demonstrates the AI-Powered Citation Auditor methodology for the academic research submission. The methodology successfully verified 98.4% of references with high confidence, detecting 3 minor errors requiring correction and identifying 1 duplicate reference. Total audit time: ~3 hours for 63 references.*

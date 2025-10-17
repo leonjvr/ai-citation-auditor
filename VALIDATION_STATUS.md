@@ -1,7 +1,7 @@
 # AI-Powered Citation Auditor - Validation Dataset Status
 
 **Last Updated**: 2025-10-17
-**Purpose**: Track progress of validation dataset processing for Agents4Science 2025 conference paper
+**Purpose**: Track progress of validation dataset processing for academic research
 
 ---
 
@@ -197,7 +197,7 @@ The validation dataset has been successfully processed through all preparation s
 ### Stage 7: Create Validation Report
 **Status**: PENDING (waiting for aggregate statistics)
 
-**Purpose**: Generate comprehensive validation report for Agents4Science 2025 paper
+**Purpose**: Generate comprehensive validation report for academic publication
 
 **Report Contents**:
 1. **Methodology Validation**

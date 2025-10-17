@@ -451,7 +451,7 @@ For each reference:
 
 **Audit completed:** 2025-10-17
 **Auditor:** Claude (Anthropic AI) with web search capability
-**Protocol:** CLAUDE.md v1.0 - AI-Powered Citation Auditor for Agents4Science 2025
+**Protocol:** CLAUDE.md v1.0 - AI-Powered Citation Auditor for academic research
 **Total verification time:** Approximately 4 hours
 **Confidence level:** HIGH (verified references), MODERATE-HIGH (pending references based on pattern analysis)
 

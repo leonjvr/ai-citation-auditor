@@ -14,7 +14,7 @@
 
 **Audit Protocol**: CLAUDE.md - AI-Powered Citation Auditor v1.0
 
-**Methodology**: Agents4Science 2025 - AI-Powered Citation Audit Framework
+**Methodology**: academic research - AI-Powered Citation Audit Framework
 
 ---
 
@@ -729,7 +729,7 @@ Each reference was assessed for:
 **Audit Conducted By**: AI-Powered Citation Auditor (Claude)
 **Audit Date**: 2025-10-17
 **Protocol Version**: CLAUDE.md v1.0
-**Framework**: Agents4Science 2025 AI-Powered Citation Audit
+**Framework**: academic research AI-Powered Citation Audit
 
 **Verification Standard**: Zero Assumptions Policy
 - Every claim verified through independent web search

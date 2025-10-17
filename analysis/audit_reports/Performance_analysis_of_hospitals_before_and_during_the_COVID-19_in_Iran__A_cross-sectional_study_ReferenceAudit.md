@@ -1415,7 +1415,7 @@ The single unverifiable reference (Ref 39: Nurettin Oner, 2016) requires correct
 
 **Report Generated**: 2025-10-17
 **Audit Protocol**: CLAUDE.md v1.0 - AI-Powered Citation Auditor
-**Conference**: Agents4Science 2025
+**Conference**: academic research
 **Research Focus**: AI methodologies for academic quality control
 
 **END OF AUDIT REPORT**

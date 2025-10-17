@@ -723,7 +723,7 @@ This citation audit reveals a well-researched, carefully compiled reference list
 
 ## Methodology Validation Notes
 
-**For Agents4Science 2025 Research:**
+**For academic research Research:**
 
 This audit successfully demonstrates the AI-Powered Citation Auditor methodology's capabilities:
 

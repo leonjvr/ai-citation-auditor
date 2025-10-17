@@ -7,7 +7,7 @@
 **Total References Listed**: 54
 **Citation Style**: Numbered (Vancouver-style)
 **Audit Status**: COMPLETED
-**Audit Protocol**: CLAUDE.md v1.0 - AI-Powered Citation Auditor for Agents4Science 2025
+**Audit Protocol**: CLAUDE.md v1.0 - AI-Powered Citation Auditor for academic research
 **Auditor**: Claude (Anthropic) - Agentic AI with Web Search Tools
 
 ---
@@ -464,7 +464,7 @@ This citation audit reveals **exemplary scholarly practices**. The document's re
 
 This reference list serves as a **model example** of high-quality citation practices in evolutionary genetics. No corrections or revisions are required.
 
-### Significance for Agents4Science 2025 Methodology Paper
+### Significance for academic research Methodology Paper
 
 This audit result validates the AI-Powered Citation Auditor methodology on a **high-quality positive control**. The tool successfully:
 - Verified all 54 references
@@ -552,7 +552,7 @@ Based on audit protocol testing experience, expected findings for different qual
 **Auditor**: Claude (Anthropic Sonnet 4.5)
 **Date**: 2025-10-17
 **Protocol**: CLAUDE.md v1.0 - AI-Powered Citation Auditor
-**Methodology**: AI-Powered Citation Audit for Agents4Science 2025
+**Methodology**: AI-Powered Citation Audit for academic research
 
 ---
 

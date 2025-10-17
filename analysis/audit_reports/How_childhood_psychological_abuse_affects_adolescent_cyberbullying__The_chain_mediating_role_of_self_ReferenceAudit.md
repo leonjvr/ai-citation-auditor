@@ -345,7 +345,7 @@ This student demonstrates exceptional research and citation skills:
 
 **Auditor Confidence**: HIGH
 
-This audit was conducted with absolute strictness and zero tolerance for assumptions, following the comprehensive verification protocol specified in CLAUDE.md for the Agents4Science 2025 research methodology validation.
+This audit was conducted with absolute strictness and zero tolerance for assumptions, following the comprehensive verification protocol specified in CLAUDE.md for the academic research research methodology validation.
 
 ---
 
@@ -418,6 +418,6 @@ Each reference assigned confidence score based on:
 
 **AUDIT COMPLETED: 2025-10-17**
 
-**Protocol Version**: CLAUDE.md v1.0 - AI-Powered Citation Auditor for Agents4Science 2025
+**Protocol Version**: CLAUDE.md v1.0 - AI-Powered Citation Auditor for academic research
 
 **Final Recommendation**: APPROVE reference list with completion of 2 minor citation corrections (add missing years for references [31] and [66]).

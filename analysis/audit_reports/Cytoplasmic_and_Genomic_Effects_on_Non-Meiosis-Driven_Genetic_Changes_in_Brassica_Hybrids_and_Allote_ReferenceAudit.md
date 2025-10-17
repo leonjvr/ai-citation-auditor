@@ -1157,7 +1157,7 @@ This reference list represents high-quality scholarship and requires only minor 
 
 **Protocol Version**: CLAUDE.md v1.0
 
-**Methodology**: AI-Powered Citation Auditor for Agents4Science 2025 Research
+**Methodology**: AI-Powered Citation Auditor for academic research Research
 
 ---
 

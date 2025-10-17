@@ -779,7 +779,7 @@ Unable to verify in-text citations without access to full document text. This au
 
 ## METHODOLOGY VALIDATION NOTES
 
-**For Agents4Science 2025 Research**
+**For academic research Research**
 
 This audit demonstrates both the capabilities and limitations of AI-powered citation verification:
 
@@ -852,4 +852,4 @@ All searches conducted: 2025-10-17
 
 Generated: 2025-10-17
 Protocol: CLAUDE.md AI-Powered Citation Auditor v1.0
-For: Agents4Science 2025 Research - AI Citation Auditing Methodology
+For: academic research Research - AI Citation Auditing Methodology

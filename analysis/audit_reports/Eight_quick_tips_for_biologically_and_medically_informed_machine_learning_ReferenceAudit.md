@@ -641,7 +641,7 @@ Journal quality was assessed using:
 
 **Report Generated**: 2025-10-17
 **Auditor**: Claude AI-Powered Citation Auditor v1.0
-**Protocol**: CLAUDE.md - AI-Powered Citation Auditor for Agents4Science 2025
+**Protocol**: CLAUDE.md - AI-Powered Citation Auditor for academic research
 **Total Verification Time**: ~3 hours
 **References Verified**: 55/94 (58.5%)
 **Fabrications Detected**: 0
@@ -649,4 +649,4 @@ Journal quality was assessed using:
 
 ---
 
-*This audit report was generated using the AI-Powered Citation Audit methodology as described in CLAUDE.md for the Agents4Science 2025 conference submission. The methodology employs systematic web searches across multiple academic databases to independently verify citation accuracy and detect potential fabrications or misrepresentations.*
+*This audit report was generated using the AI-Powered Citation Audit methodology as described in CLAUDE.md for the academic research conference submission. The methodology employs systematic web searches across multiple academic databases to independently verify citation accuracy and detect potential fabrications or misrepresentations.*

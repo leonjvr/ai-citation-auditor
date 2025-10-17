@@ -1075,7 +1075,7 @@ The following references could not be independently verified without CNKI access
 
 **Auditor**: Claude (Anthropic AI)
 **Audit Protocol Version**: CLAUDE.md v1.0 (2025-10-17)
-**Methodology**: AI-Powered Citation Auditor for Agents4Science 2025
+**Methodology**: AI-Powered Citation Auditor for academic research
 **Audit Date**: 2025-10-17
 **Total Time**: ~60 minutes
 **References Audited**: 22/22 (100%)
@@ -1090,7 +1090,7 @@ The following references could not be independently verified without CNKI access
 - Relevance assessment based on abstracts, not full-text review
 
 **Audit Integrity Statement**:
-This audit was conducted using systematic web searches and current bibliographic databases. No assumptions were made about unverified sources. All verification failures are documented with specific reasons. The audit methodology follows the AI-Powered Citation Auditor protocol designed for Agents4Science 2025 research validation.
+This audit was conducted using systematic web searches and current bibliographic databases. No assumptions were made about unverified sources. All verification failures are documented with specific reasons. The audit methodology follows the AI-Powered Citation Auditor protocol designed for academic research research validation.
 
 ---
 
