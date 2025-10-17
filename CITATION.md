@@ -84,43 +84,41 @@ Janse van Rensburg, LJ, "AI-Powered Citation Auditor: A zero-assumption protocol
 
 ## Conference Paper Citation
 
-### BibTeX
+**Status**: Submitted to Agents4Science 2025 (acceptance pending)
+
+**Note**: This citation format is provisional and will be updated upon acceptance and publication with final details (publisher, pages, DOI).
+
+### BibTeX (Current - Unpublished Submission)
 
 ```bibtex
-@inproceedings{citation_audit_agents4science_2025,
+@unpublished{citation_audit_agents4science_2025,
   author       = {Janse van Rensburg, LJ},
   title        = {{AI-Powered Methodology for Comprehensive Reference and
                    Citation Audits in Academic Manuscripts}},
-  booktitle    = {Proceedings of the 1st Open Conference on AI Agents
+  note         = {Submitted to the 1st Open Conference on AI Agents
                   for Science (Agents4Science 2025)},
   year         = 2025,
-  month        = {[Conference Month]},
-  location     = {Virtual},
-  publisher    = {[Publisher TBD]},
-  pages        = {[TBD]},
   url          = {https://agents4science.stanford.edu},
-  note         = {Methodology repository:
-                  https://github.com/[username]/ai-citation-auditor}
+  repository   = {https://github.com/leonjvr/ai-citation-auditor}
 }
 ```
 
-### APA 7th Edition
+### APA 7th Edition (Current - Unpublished Submission)
 
 ```
 Janse van Rensburg, LJ. (2025). AI-powered methodology for comprehensive reference and
-    citation audits in academic manuscripts. In Proceedings of the 1st Open
-    Conference on AI Agents for Science (Agents4Science 2025) (pp. [TBD]).
-    [Publisher TBD]. https://agents4science.stanford.edu
+    citation audits in academic manuscripts [Unpublished manuscript submitted for
+    publication]. Submitted to the 1st Open Conference on AI Agents for Science
+    (Agents4Science 2025). https://github.com/leonjvr/ai-citation-auditor
 ```
 
-### Chicago 17th Edition
+### Future Citation (Upon Acceptance)
 
-```
-Janse van Rensburg, LJ. 2025. "AI-Powered Methodology for Comprehensive Reference and
-    Citation Audits in Academic Manuscripts." In Proceedings of the 1st Open
-    Conference on AI Agents for Science (Agents4Science 2025), [pages TBD].
-    Virtual: [Publisher TBD].
-```
+**This section will be populated after conference acceptance with:**
+- Final publisher information
+- Page numbers
+- DOI (if assigned)
+- Proceedings volume/issue details
 
 ---
 
@@ -441,11 +439,13 @@ For updated citation information:
 - See releases page for version-specific citations
 - Review CHANGELOG.md for significant updates
 
-**Citation updates will be provided for:**
-- Zenodo DOI assignment
-- Conference paper publication
-- Major version releases (2.0.0, etc.)
-- Peer-reviewed journal publication
+**Future work - Citation updates planned for:**
+- Zenodo DOI assignment (permanent archival identifier)
+- Conference paper publication (if accepted)
+- Major version releases (e.g., 2.0.0 with methodology refinements)
+- Peer-reviewed journal publication (potential future submission)
+
+**Current status**: Software release v1.0.0 is stable and citable. Conference paper submission is under review.
 
 ---
 

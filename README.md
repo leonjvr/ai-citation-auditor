@@ -18,7 +18,14 @@ This repository contains a **zero-assumption protocol** for systematic citation 
 - 🎯 **Detection capabilities** - identifies fabricated sources, citation-reference mismatches, orphan references/citations
 - 📈 **Scalable** - tested on documents from 19 to 916 references
 
-## Research Context
+## Current Status & Research Context
+
+**Project Status:**
+- **Software Version**: v1.0.0 (stable, functional, tested)
+- **Conference Submission**: Submitted to Agents4Science 2025 (acceptance pending)
+- **Empirical Validation**: Completed on 6 documents, 1,369 references
+- **Replication**: Full methodology documented and open source
+- **Future Work**: Extended validation, Zenodo DOI, potential journal submission
 
 This methodology was developed for submission to **Agents4Science 2025** (1st Open Conference on AI Agents for Science) and has been empirically tested across diverse academic contexts:
 
@@ -264,12 +271,14 @@ If you use this methodology in your research, please cite:
 }
 ```
 
-**Conference Paper** (forthcoming):
+**Conference Paper** (submitted to Agents4Science 2025):
 ```
 Janse van Rensburg, LJ. (2025). AI-Powered Methodology for Comprehensive Reference
-and Citation Audits in Academic Manuscripts. In Proceedings of the 1st Open
-Conference on AI Agents for Science (Agents4Science 2025).
+and Citation Audits in Academic Manuscripts. Submitted to the 1st Open Conference
+on AI Agents for Science (Agents4Science 2025).
 ```
+
+**Note**: Conference paper citation will be updated upon acceptance and publication.
 
 See [`CITATION.md`](CITATION.md) for additional citation formats.
 
